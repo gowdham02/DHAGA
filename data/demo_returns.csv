@@ -1,0 +1,651 @@
+order_id,sku,product_name,vendor,size,return_reason,return_reason_detail,data_source,synthetic_actual_theme
+SYN-100000,SKU104,Riya Printed Shirt,V2 Jaipur Textiles,XL,Fit,M size bhi chota laga yaar,SYNTHETIC DEMO DATA,FIT
+SYN-100001,SKU103,Nila Anarkali Kurti,V2 Jaipur Textiles,XL,Fit,size is smaller than expected yaar,SYNTHETIC DEMO DATA,FIT
+SYN-100002,SKU107,Meher Festive Kurta,V4 Saffron Studio,S,Other,change my mind for my usual size,SYNTHETIC DEMO DATA,OTHER
+SYN-100003,SKU114,Pihu Casual Tee,V7 Thread Theory,M,Other,fabric feels very cheap :( ,SYNTHETIC DEMO DATA,QUALITY
+SYN-100004,SKU112,Diya Summer Co-ord,V6 Indigo Works,L,Delivery,delivery came late,SYNTHETIC DEMO DATA,DELIVERY
+SYN-100005,SKU103,Nila Anarkali Kurti,V2 Jaipur Textiles,S,Other,shoulder fitting off hai,SYNTHETIC DEMO DATA,FIT
+SYN-100006,SKU110,Sana Ribbed Top,V5 Coastline Apparel,M,Other,return please,SYNTHETIC DEMO DATA,OTHER
+SYN-100007,SKU106,Kavya Palazzo Set,V3 Urban Weave,XS,Quality,thread coming out,SYNTHETIC DEMO DATA,QUALITY
+SYN-100008,SKU106,Kavya Palazzo Set,V3 Urban Weave,XXL,Product,print is not as shown,SYNTHETIC DEMO DATA,PRODUCT
+SYN-100009,SKU108,Ira Everyday Top,V4 Saffron Studio,XS,Other,not happy pls help,SYNTHETIC DEMO DATA,OTHER
+SYN-100010,SKU107,Meher Festive Kurta,V4 Saffron Studio,L,Other,looks odd,SYNTHETIC DEMO DATA,OTHER
+SYN-100011,SKU105,Tara Linen Shirt,V3 Urban Weave,L,Quality,thread coming out,SYNTHETIC DEMO DATA,QUALITY
+SYN-100012,SKU113,Leela Rayon Kurti,V7 Thread Theory,XS,Other,fabric feels very cheap,SYNTHETIC DEMO DATA,QUALITY
+SYN-100013,SKU105,Tara Linen Shirt,V3 Urban Weave,L,Delivery,tracking never updated,SYNTHETIC DEMO DATA,DELIVERY
+SYN-100014,SKU109,Zoya Flared Dress,V5 Coastline Apparel,M,Other,not happy,SYNTHETIC DEMO DATA,OTHER
+SYN-100015,SKU111,Avni Denim Jacket,V6 Indigo Works,M,Fit,actual measurement chart se alag hai pls help,SYNTHETIC DEMO DATA,FIT
+SYN-100016,SKU106,Kavya Palazzo Set,V3 Urban Weave,XL,Product,design looked different online,SYNTHETIC DEMO DATA,PRODUCT
+SYN-100017,SKU107,Meher Festive Kurta,V4 Saffron Studio,XS,Fit,length is too short,SYNTHETIC DEMO DATA,FIT
+SYN-100018,SKU111,Avni Denim Jacket,V6 Indigo Works,M,Product,design looked different online,SYNTHETIC DEMO DATA,PRODUCT
+SYN-100019,SKU108,Ira Everyday Top,V4 Saffron Studio,XL,Fit,shoulder romba tight,SYNTHETIC DEMO DATA,FIT
+SYN-100020,SKU105,Tara Linen Shirt,V3 Urban Weave,XL,Fit,too long for me,SYNTHETIC DEMO DATA,FIT
+SYN-100021,SKU114,Pihu Casual Tee,V7 Thread Theory,M,Other,return please,SYNTHETIC DEMO DATA,OTHER
+SYN-100022,SKU115,Anaya Office Trousers,V8 Form & Fit,XL,Other,pattern is misleading yaar,SYNTHETIC DEMO DATA,PRODUCT
+SYN-100023,SKU108,Ira Everyday Top,V4 Saffron Studio,XS,Other,delivery came late totally unexpected,SYNTHETIC DEMO DATA,DELIVERY
+SYN-100024,SKU111,Avni Denim Jacket,V6 Indigo Works,XL,Other,sleeves are too short,SYNTHETIC DEMO DATA,FIT
+SYN-100025,SKU116,Veda Oversized Shirt,V8 Form & Fit,L,Other,too long for me,SYNTHETIC DEMO DATA,FIT
+SYN-100026,SKU112,Diya Summer Co-ord,V6 Indigo Works,XXL,Product,pattern is misleading,SYNTHETIC DEMO DATA,PRODUCT
+SYN-100027,SKU104,Riya Printed Shirt,V2 Jaipur Textiles,XL,Other,bahut bada ho gaya,SYNTHETIC DEMO DATA,FIT
+SYN-100028,SKU115,Anaya Office Trousers,V8 Form & Fit,XL,Other,length is too short yaar,SYNTHETIC DEMO DATA,FIT
+SYN-100029,SKU104,Riya Printed Shirt,V2 Jaipur Textiles,S,Fit,kurti bahut tight hai,SYNTHETIC DEMO DATA,FIT
+SYN-100030,SKU114,Pihu Casual Tee,V7 Thread Theory,XS,Other,print is not as shown,SYNTHETIC DEMO DATA,PRODUCT
+SYN-100031,SKU113,Leela Rayon Kurti,V7 Thread Theory,XL,Quality,zip is defective totally unexpected,SYNTHETIC DEMO DATA,QUALITY
+SYN-100032,SKU116,Veda Oversized Shirt,V8 Form & Fit,XXL,Fit,fit is weird around the chest pls help,SYNTHETIC DEMO DATA,FIT
+SYN-100033,SKU111,Avni Denim Jacket,V6 Indigo Works,XL,Other,too long for me,SYNTHETIC DEMO DATA,FIT
+SYN-100034,SKU103,Nila Anarkali Kurti,V2 Jaipur Textiles,XS,Other,design looked different online,SYNTHETIC DEMO DATA,PRODUCT
+SYN-100035,SKU108,Ira Everyday Top,V4 Saffron Studio,XL,Delivery,delivery came late,SYNTHETIC DEMO DATA,DELIVERY
+SYN-100036,SKU111,Avni Denim Jacket,V6 Indigo Works,S,Other,return please,SYNTHETIC DEMO DATA,OTHER
+SYN-100037,SKU110,Sana Ribbed Top,V5 Coastline Apparel,XS,Product,design looked different online for my usual size,SYNTHETIC DEMO DATA,PRODUCT
+SYN-100038,SKU107,Meher Festive Kurta,V4 Saffron Studio,M,Product,wrong product received,SYNTHETIC DEMO DATA,PRODUCT
+SYN-100039,SKU110,Sana Ribbed Top,V5 Coastline Apparel,XS,Fit,fit is weird around the chest,SYNTHETIC DEMO DATA,FIT
+SYN-100040,SKU110,Sana Ribbed Top,V5 Coastline Apparel,XS,Other,size feels weird,SYNTHETIC DEMO DATA,OTHER
+SYN-100041,SKU105,Tara Linen Shirt,V3 Urban Weave,M,Quality,thread coming out,SYNTHETIC DEMO DATA,QUALITY
+SYN-100042,SKU116,Veda Oversized Shirt,V8 Form & Fit,M,Other,size is smaller than expected,SYNTHETIC DEMO DATA,FIT
+SYN-100043,SKU105,Tara Linen Shirt,V3 Urban Weave,XS,Other,package was delivered to wrong place,SYNTHETIC DEMO DATA,DELIVERY
+SYN-100044,SKU104,Riya Printed Shirt,V2 Jaipur Textiles,S,Fit,shirt loose hai,SYNTHETIC DEMO DATA,FIT
+SYN-100045,SKU114,Pihu Casual Tee,V7 Thread Theory,XS,Fit,fit is weird around the chest,SYNTHETIC DEMO DATA,FIT
+SYN-100046,SKU112,Diya Summer Co-ord,V6 Indigo Works,L,Fit,sleeves are too short,SYNTHETIC DEMO DATA,FIT
+SYN-100047,SKU105,Tara Linen Shirt,V3 Urban Weave,L,Other,return please,SYNTHETIC DEMO DATA,OTHER
+SYN-100048,SKU101,Aarna Straight Kurti,V1 North Looms,XXL,Fit,bahut bada ho gaya,SYNTHETIC DEMO DATA,FIT
+SYN-100049,SKU108,Ira Everyday Top,V4 Saffron Studio,S,Quality,stitching came undone after one wear,SYNTHETIC DEMO DATA,QUALITY
+SYN-100050,SKU115,Anaya Office Trousers,V8 Form & Fit,XS,Other,sleeves are too short totally unexpected,SYNTHETIC DEMO DATA,FIT
+SYN-100051,SKU109,Zoya Flared Dress,V5 Coastline Apparel,XS,Other,cloth quality bilkul achi nahi,SYNTHETIC DEMO DATA,QUALITY
+SYN-100052,SKU104,Riya Printed Shirt,V2 Jaipur Textiles,M,Other,okay but no :( ,SYNTHETIC DEMO DATA,OTHER
+SYN-100053,SKU111,Avni Denim Jacket,V6 Indigo Works,XXL,Other,design looked different online,SYNTHETIC DEMO DATA,PRODUCT
+SYN-100054,SKU114,Pihu Casual Tee,V7 Thread Theory,M,Fit,size chart didn't match,SYNTHETIC DEMO DATA,FIT
+SYN-100055,SKU111,Avni Denim Jacket,V6 Indigo Works,L,Other,size feels weird,SYNTHETIC DEMO DATA,OTHER
+SYN-100056,SKU111,Avni Denim Jacket,V6 Indigo Works,L,Quality,colour faded on first wash,SYNTHETIC DEMO DATA,QUALITY
+SYN-100057,SKU106,Kavya Palazzo Set,V3 Urban Weave,S,Other,package was delivered to wrong place,SYNTHETIC DEMO DATA,DELIVERY
+SYN-100058,SKU114,Pihu Casual Tee,V7 Thread Theory,L,Other,looks odd,SYNTHETIC DEMO DATA,OTHER
+SYN-100059,SKU106,Kavya Palazzo Set,V3 Urban Weave,S,Other,package was delivered to wrong place,SYNTHETIC DEMO DATA,DELIVERY
+SYN-100060,SKU110,Sana Ribbed Top,V5 Coastline Apparel,XS,Fit,size chart didn't match pls help,SYNTHETIC DEMO DATA,FIT
+SYN-100061,SKU115,Anaya Office Trousers,V8 Form & Fit,S,Other,size chart didn't match,SYNTHETIC DEMO DATA,FIT
+SYN-100062,SKU101,Aarna Straight Kurti,V1 North Looms,XXL,Product,design looked different online,SYNTHETIC DEMO DATA,PRODUCT
+SYN-100063,SKU115,Anaya Office Trousers,V8 Form & Fit,L,Other,sleeves are too short,SYNTHETIC DEMO DATA,FIT
+SYN-100064,SKU111,Avni Denim Jacket,V6 Indigo Works,XL,Other,hmm not sure,SYNTHETIC DEMO DATA,OTHER
+SYN-100065,SKU115,Anaya Office Trousers,V8 Form & Fit,M,Product,pattern is misleading,SYNTHETIC DEMO DATA,PRODUCT
+SYN-100066,SKU116,Veda Oversized Shirt,V8 Form & Fit,M,Other,image wala shade nahi hai,SYNTHETIC DEMO DATA,PRODUCT
+SYN-100067,SKU111,Avni Denim Jacket,V6 Indigo Works,S,Other,size feels weird yaar,SYNTHETIC DEMO DATA,OTHER
+SYN-100068,SKU103,Nila Anarkali Kurti,V2 Jaipur Textiles,L,Other,bahut bada ho gaya,SYNTHETIC DEMO DATA,FIT
+SYN-100069,SKU113,Leela Rayon Kurti,V7 Thread Theory,XS,Other,not happy,SYNTHETIC DEMO DATA,OTHER
+SYN-100070,SKU112,Diya Summer Co-ord,V6 Indigo Works,XXL,Other,cloth quality bilkul achi nahi,SYNTHETIC DEMO DATA,QUALITY
+SYN-100071,SKU108,Ira Everyday Top,V4 Saffron Studio,XXL,Other,,SYNTHETIC DEMO DATA,PRODUCT
+SYN-100072,SKU113,Leela Rayon Kurti,V7 Thread Theory,L,Other,hmm not sure,SYNTHETIC DEMO DATA,OTHER
+SYN-100073,SKU101,Aarna Straight Kurti,V1 North Looms,M,Other,actual measurement chart se alag hai,SYNTHETIC DEMO DATA,FIT
+SYN-100074,SKU107,Meher Festive Kurta,V4 Saffron Studio,L,Product,product looks different in real,SYNTHETIC DEMO DATA,PRODUCT
+SYN-100075,SKU109,Zoya Flared Dress,V5 Coastline Apparel,S,Other,hmm not sure for my usual size,SYNTHETIC DEMO DATA,OTHER
+SYN-100076,SKU103,Nila Anarkali Kurti,V2 Jaipur Textiles,XS,Other,material quality not good,SYNTHETIC DEMO DATA,QUALITY
+SYN-100077,SKU105,Tara Linen Shirt,V3 Urban Weave,XXL,Other,too long for me,SYNTHETIC DEMO DATA,FIT
+SYN-100078,SKU109,Zoya Flared Dress,V5 Coastline Apparel,S,Other,didn't like it,SYNTHETIC DEMO DATA,OTHER
+SYN-100079,SKU110,Sana Ribbed Top,V5 Coastline Apparel,L,Fit,kurti bahut tight hai,SYNTHETIC DEMO DATA,FIT
+SYN-100080,SKU113,Leela Rayon Kurti,V7 Thread Theory,XXL,Other,return please totally unexpected,SYNTHETIC DEMO DATA,OTHER
+SYN-100081,SKU110,Sana Ribbed Top,V5 Coastline Apparel,XL,Other,size feels weird,SYNTHETIC DEMO DATA,OTHER
+SYN-100082,SKU114,Pihu Casual Tee,V7 Thread Theory,L,Other,size feels weird,SYNTHETIC DEMO DATA,OTHER
+SYN-100083,SKU104,Riya Printed Shirt,V2 Jaipur Textiles,L,Product,product looks different in real,SYNTHETIC DEMO DATA,PRODUCT
+SYN-100084,SKU106,Kavya Palazzo Set,V3 Urban Weave,L,Other,okay but no,SYNTHETIC DEMO DATA,OTHER
+SYN-100085,SKU114,Pihu Casual Tee,V7 Thread Theory,L,Other,okay but no yaar,SYNTHETIC DEMO DATA,OTHER
+SYN-100086,SKU108,Ira Everyday Top,V4 Saffron Studio,S,Other,change my mind,SYNTHETIC DEMO DATA,OTHER
+SYN-100087,SKU112,Diya Summer Co-ord,V6 Indigo Works,XS,Other,looks odd for my usual size,SYNTHETIC DEMO DATA,OTHER
+SYN-100088,SKU107,Meher Festive Kurta,V4 Saffron Studio,XXL,Fit,actual measurement chart se alag hai,SYNTHETIC DEMO DATA,FIT
+SYN-100089,SKU116,Veda Oversized Shirt,V8 Form & Fit,XXL,Other,material quality not good yaar,SYNTHETIC DEMO DATA,QUALITY
+SYN-100090,SKU112,Diya Summer Co-ord,V6 Indigo Works,XXL,Other,product looks different in real,SYNTHETIC DEMO DATA,PRODUCT
+SYN-100091,SKU115,Anaya Office Trousers,V8 Form & Fit,XL,Other,M size bhi chota laga totally unexpected,SYNTHETIC DEMO DATA,FIT
+SYN-100092,SKU106,Kavya Palazzo Set,V3 Urban Weave,M,Fit,too long for me for my usual size,SYNTHETIC DEMO DATA,FIT
+SYN-100093,SKU104,Riya Printed Shirt,V2 Jaipur Textiles,S,Other,okay but no yaar,SYNTHETIC DEMO DATA,OTHER
+SYN-100094,SKU109,Zoya Flared Dress,V5 Coastline Apparel,L,Other,size is smaller than expected,SYNTHETIC DEMO DATA,FIT
+SYN-100095,SKU104,Riya Printed Shirt,V2 Jaipur Textiles,XS,Other,okay but no,SYNTHETIC DEMO DATA,OTHER
+SYN-100096,SKU109,Zoya Flared Dress,V5 Coastline Apparel,XXL,Other,hmm not sure pls help,SYNTHETIC DEMO DATA,OTHER
+SYN-100097,SKU102,Mira Cotton Kurti,V1 North Looms,XL,Fit,fit is weird around the chest yaar,SYNTHETIC DEMO DATA,FIT
+SYN-100098,SKU108,Ira Everyday Top,V4 Saffron Studio,L,Other,change my mind,SYNTHETIC DEMO DATA,OTHER
+SYN-100099,SKU110,Sana Ribbed Top,V5 Coastline Apparel,S,Delivery,delivery came late,SYNTHETIC DEMO DATA,DELIVERY
+SYN-100100,SKU107,Meher Festive Kurta,V4 Saffron Studio,L,Other,stitching came undone after one wear yaar,SYNTHETIC DEMO DATA,QUALITY
+SYN-100101,SKU115,Anaya Office Trousers,V8 Form & Fit,L,Other,zip is defective yaar,SYNTHETIC DEMO DATA,QUALITY
+SYN-100102,SKU103,Nila Anarkali Kurti,V2 Jaipur Textiles,S,Quality,colour faded on first wash,SYNTHETIC DEMO DATA,QUALITY
+SYN-100103,SKU114,Pihu Casual Tee,V7 Thread Theory,XS,Fit,sleeves are too short,SYNTHETIC DEMO DATA,FIT
+SYN-100104,SKU102,Mira Cotton Kurti,V1 North Looms,L,Fit,fit is weird around the chest,SYNTHETIC DEMO DATA,FIT
+SYN-100105,SKU104,Riya Printed Shirt,V2 Jaipur Textiles,L,Product,image wala shade nahi hai,SYNTHETIC DEMO DATA,PRODUCT
+SYN-100106,SKU115,Anaya Office Trousers,V8 Form & Fit,XS,Fit,size is smaller than expected,SYNTHETIC DEMO DATA,FIT
+SYN-100107,SKU103,Nila Anarkali Kurti,V2 Jaipur Textiles,XS,Other,kurti bahut tight hai,SYNTHETIC DEMO DATA,FIT
+SYN-100108,SKU106,Kavya Palazzo Set,V3 Urban Weave,XXL,Product,pattern is misleading,SYNTHETIC DEMO DATA,PRODUCT
+SYN-100109,SKU116,Veda Oversized Shirt,V8 Form & Fit,S,Other,hmm not sure :( ,SYNTHETIC DEMO DATA,OTHER
+SYN-100110,SKU111,Avni Denim Jacket,V6 Indigo Works,L,Quality,zip is defective,SYNTHETIC DEMO DATA,QUALITY
+SYN-100111,SKU103,Nila Anarkali Kurti,V2 Jaipur Textiles,XS,Fit,bahut bada ho gaya,SYNTHETIC DEMO DATA,FIT
+SYN-100112,SKU115,Anaya Office Trousers,V8 Form & Fit,L,Fit,size chart didn't match,SYNTHETIC DEMO DATA,FIT
+SYN-100113,SKU102,Mira Cotton Kurti,V1 North Looms,XS,Fit,shirt loose hai,SYNTHETIC DEMO DATA,FIT
+SYN-100114,SKU101,Aarna Straight Kurti,V1 North Looms,L,Other,delivery bahut late hui,SYNTHETIC DEMO DATA,DELIVERY
+SYN-100115,SKU103,Nila Anarkali Kurti,V2 Jaipur Textiles,L,Fit,not fitting properly,SYNTHETIC DEMO DATA,FIT
+SYN-100116,SKU110,Sana Ribbed Top,V5 Coastline Apparel,L,Product,image wala shade nahi hai,SYNTHETIC DEMO DATA,PRODUCT
+SYN-100117,SKU105,Tara Linen Shirt,V3 Urban Weave,L,Quality,fabric feels very cheap,SYNTHETIC DEMO DATA,QUALITY
+SYN-100118,SKU111,Avni Denim Jacket,V6 Indigo Works,XL,Other,okay but no,SYNTHETIC DEMO DATA,OTHER
+SYN-100119,SKU116,Veda Oversized Shirt,V8 Form & Fit,XL,Other,hmm not sure,SYNTHETIC DEMO DATA,OTHER
+SYN-100120,SKU113,Leela Rayon Kurti,V7 Thread Theory,L,Other,product looks different in real,SYNTHETIC DEMO DATA,PRODUCT
+SYN-100121,SKU108,Ira Everyday Top,V4 Saffron Studio,L,Other,change my mind totally unexpected,SYNTHETIC DEMO DATA,OTHER
+SYN-100122,SKU113,Leela Rayon Kurti,V7 Thread Theory,XL,Other,didn't like it,SYNTHETIC DEMO DATA,OTHER
+SYN-100123,SKU111,Avni Denim Jacket,V6 Indigo Works,XXL,Other,,SYNTHETIC DEMO DATA,OTHER
+SYN-100124,SKU105,Tara Linen Shirt,V3 Urban Weave,M,Other,M size bhi chota laga totally unexpected,SYNTHETIC DEMO DATA,FIT
+SYN-100125,SKU113,Leela Rayon Kurti,V7 Thread Theory,XXL,Other,hmm not sure,SYNTHETIC DEMO DATA,OTHER
+SYN-100126,SKU110,Sana Ribbed Top,V5 Coastline Apparel,XS,Other,size feels weird,SYNTHETIC DEMO DATA,OTHER
+SYN-100127,SKU115,Anaya Office Trousers,V8 Form & Fit,M,Fit,fit is weird around the chest,SYNTHETIC DEMO DATA,FIT
+SYN-100128,SKU112,Diya Summer Co-ord,V6 Indigo Works,S,Quality,fabric feels very cheap,SYNTHETIC DEMO DATA,QUALITY
+SYN-100129,SKU106,Kavya Palazzo Set,V3 Urban Weave,S,Fit,waist tight but rest okay,SYNTHETIC DEMO DATA,FIT
+SYN-100130,SKU108,Ira Everyday Top,V4 Saffron Studio,L,Product,image wala shade nahi hai,SYNTHETIC DEMO DATA,PRODUCT
+SYN-100131,SKU110,Sana Ribbed Top,V5 Coastline Apparel,L,Other,didn't like it :( ,SYNTHETIC DEMO DATA,OTHER
+SYN-100132,SKU109,Zoya Flared Dress,V5 Coastline Apparel,L,Other,image wala shade nahi hai,SYNTHETIC DEMO DATA,PRODUCT
+SYN-100133,SKU112,Diya Summer Co-ord,V6 Indigo Works,XXL,Other,package was delivered to wrong place totally unexpected,SYNTHETIC DEMO DATA,DELIVERY
+SYN-100134,SKU102,Mira Cotton Kurti,V1 North Looms,S,Other,hmm not sure,SYNTHETIC DEMO DATA,OTHER
+SYN-100135,SKU112,Diya Summer Co-ord,V6 Indigo Works,XXL,Fit,size chart didn't match,SYNTHETIC DEMO DATA,FIT
+SYN-100136,SKU105,Tara Linen Shirt,V3 Urban Weave,S,Other,,SYNTHETIC DEMO DATA,DELIVERY
+SYN-100137,SKU103,Nila Anarkali Kurti,V2 Jaipur Textiles,XL,Other,product looks different in real,SYNTHETIC DEMO DATA,PRODUCT
+SYN-100138,SKU112,Diya Summer Co-ord,V6 Indigo Works,L,Product,image wala shade nahi hai,SYNTHETIC DEMO DATA,PRODUCT
+SYN-100139,SKU110,Sana Ribbed Top,V5 Coastline Apparel,S,Other,looks odd,SYNTHETIC DEMO DATA,OTHER
+SYN-100140,SKU113,Leela Rayon Kurti,V7 Thread Theory,L,Other,,SYNTHETIC DEMO DATA,OTHER
+SYN-100141,SKU112,Diya Summer Co-ord,V6 Indigo Works,XS,Other,okay but no,SYNTHETIC DEMO DATA,OTHER
+SYN-100142,SKU108,Ira Everyday Top,V4 Saffron Studio,L,Other,product looks different in real,SYNTHETIC DEMO DATA,PRODUCT
+SYN-100143,SKU110,Sana Ribbed Top,V5 Coastline Apparel,XS,Delivery,parcel arrived after the event pls help,SYNTHETIC DEMO DATA,DELIVERY
+SYN-100144,SKU108,Ira Everyday Top,V4 Saffron Studio,XXL,Other,didn't like it,SYNTHETIC DEMO DATA,OTHER
+SYN-100145,SKU114,Pihu Casual Tee,V7 Thread Theory,XL,Delivery,courier delayed too much,SYNTHETIC DEMO DATA,DELIVERY
+SYN-100146,SKU114,Pihu Casual Tee,V7 Thread Theory,S,Other,okay but no :( ,SYNTHETIC DEMO DATA,OTHER
+SYN-100147,SKU112,Diya Summer Co-ord,V6 Indigo Works,L,Other,shoulder fitting off hai,SYNTHETIC DEMO DATA,FIT
+SYN-100148,SKU109,Zoya Flared Dress,V5 Coastline Apparel,S,Other,not fitting properly,SYNTHETIC DEMO DATA,FIT
+SYN-100149,SKU101,Aarna Straight Kurti,V1 North Looms,XL,Other,bahut bada ho gaya yaar,SYNTHETIC DEMO DATA,FIT
+SYN-100150,SKU107,Meher Festive Kurta,V4 Saffron Studio,M,Delivery,delivery bahut late hui yaar,SYNTHETIC DEMO DATA,DELIVERY
+SYN-100151,SKU105,Tara Linen Shirt,V3 Urban Weave,S,Other,okay but no,SYNTHETIC DEMO DATA,OTHER
+SYN-100152,SKU101,Aarna Straight Kurti,V1 North Looms,S,Other,,SYNTHETIC DEMO DATA,FIT
+SYN-100153,SKU114,Pihu Casual Tee,V7 Thread Theory,XS,Product,design looked different online,SYNTHETIC DEMO DATA,PRODUCT
+SYN-100154,SKU115,Anaya Office Trousers,V8 Form & Fit,M,Fit,size is smaller than expected,SYNTHETIC DEMO DATA,FIT
+SYN-100155,SKU115,Anaya Office Trousers,V8 Form & Fit,XS,Other,material quality not good,SYNTHETIC DEMO DATA,QUALITY
+SYN-100156,SKU116,Veda Oversized Shirt,V8 Form & Fit,S,Other,late delivery so returning pls help,SYNTHETIC DEMO DATA,DELIVERY
+SYN-100157,SKU109,Zoya Flared Dress,V5 Coastline Apparel,XL,Other,received after expected date,SYNTHETIC DEMO DATA,DELIVERY
+SYN-100158,SKU114,Pihu Casual Tee,V7 Thread Theory,XXL,Fit,not fitting properly,SYNTHETIC DEMO DATA,FIT
+SYN-100159,SKU107,Meher Festive Kurta,V4 Saffron Studio,XXL,Other,print is not as shown,SYNTHETIC DEMO DATA,PRODUCT
+SYN-100160,SKU104,Riya Printed Shirt,V2 Jaipur Textiles,L,Other,received with a small tear,SYNTHETIC DEMO DATA,QUALITY
+SYN-100161,SKU103,Nila Anarkali Kurti,V2 Jaipur Textiles,S,Other,shoulder romba tight pls help,SYNTHETIC DEMO DATA,FIT
+SYN-100162,SKU102,Mira Cotton Kurti,V1 North Looms,L,Delivery,received after expected date,SYNTHETIC DEMO DATA,DELIVERY
+SYN-100163,SKU102,Mira Cotton Kurti,V1 North Looms,XXL,Other,okay but no,SYNTHETIC DEMO DATA,OTHER
+SYN-100164,SKU116,Veda Oversized Shirt,V8 Form & Fit,M,Other,not fitting properly,SYNTHETIC DEMO DATA,FIT
+SYN-100165,SKU108,Ira Everyday Top,V4 Saffron Studio,XS,Other,not happy,SYNTHETIC DEMO DATA,OTHER
+SYN-100166,SKU106,Kavya Palazzo Set,V3 Urban Weave,S,Other,colour faded on first wash,SYNTHETIC DEMO DATA,QUALITY
+SYN-100167,SKU113,Leela Rayon Kurti,V7 Thread Theory,M,Other,kurti bahut tight hai for my usual size,SYNTHETIC DEMO DATA,FIT
+SYN-100168,SKU106,Kavya Palazzo Set,V3 Urban Weave,XS,Other,received with a small tear,SYNTHETIC DEMO DATA,QUALITY
+SYN-100169,SKU105,Tara Linen Shirt,V3 Urban Weave,L,Fit,size is smaller than expected,SYNTHETIC DEMO DATA,FIT
+SYN-100170,SKU115,Anaya Office Trousers,V8 Form & Fit,M,Other,size chart didn't match,SYNTHETIC DEMO DATA,FIT
+SYN-100171,SKU116,Veda Oversized Shirt,V8 Form & Fit,S,Other,colour faded on first wash,SYNTHETIC DEMO DATA,QUALITY
+SYN-100172,SKU110,Sana Ribbed Top,V5 Coastline Apparel,L,Other,didn't like it,SYNTHETIC DEMO DATA,OTHER
+SYN-100173,SKU114,Pihu Casual Tee,V7 Thread Theory,XXL,Fit,waist tight but rest okay,SYNTHETIC DEMO DATA,FIT
+SYN-100174,SKU112,Diya Summer Co-ord,V6 Indigo Works,M,Other,size is smaller than expected,SYNTHETIC DEMO DATA,FIT
+SYN-100175,SKU114,Pihu Casual Tee,V7 Thread Theory,XL,Other,,SYNTHETIC DEMO DATA,DELIVERY
+SYN-100176,SKU115,Anaya Office Trousers,V8 Form & Fit,XL,Product,product looks different in real pls help,SYNTHETIC DEMO DATA,PRODUCT
+SYN-100177,SKU103,Nila Anarkali Kurti,V2 Jaipur Textiles,XS,Fit,fit is weird around the chest,SYNTHETIC DEMO DATA,FIT
+SYN-100178,SKU104,Riya Printed Shirt,V2 Jaipur Textiles,XXL,Product,print is not as shown,SYNTHETIC DEMO DATA,PRODUCT
+SYN-100179,SKU105,Tara Linen Shirt,V3 Urban Weave,XXL,Fit,shirt loose hai yaar,SYNTHETIC DEMO DATA,FIT
+SYN-100180,SKU103,Nila Anarkali Kurti,V2 Jaipur Textiles,XXL,Fit,too long for me,SYNTHETIC DEMO DATA,FIT
+SYN-100181,SKU111,Avni Denim Jacket,V6 Indigo Works,M,Other,looks odd pls help,SYNTHETIC DEMO DATA,OTHER
+SYN-100182,SKU102,Mira Cotton Kurti,V1 North Looms,M,Other,stitching came undone after one wear,SYNTHETIC DEMO DATA,QUALITY
+SYN-100183,SKU103,Nila Anarkali Kurti,V2 Jaipur Textiles,XL,Quality,stitching came undone after one wear,SYNTHETIC DEMO DATA,QUALITY
+SYN-100184,SKU102,Mira Cotton Kurti,V1 North Looms,L,Product,print is not as shown,SYNTHETIC DEMO DATA,PRODUCT
+SYN-100185,SKU104,Riya Printed Shirt,V2 Jaipur Textiles,XS,Other,looks odd,SYNTHETIC DEMO DATA,OTHER
+SYN-100186,SKU108,Ira Everyday Top,V4 Saffron Studio,M,Other,hmm not sure,SYNTHETIC DEMO DATA,OTHER
+SYN-100187,SKU113,Leela Rayon Kurti,V7 Thread Theory,M,Quality,received with a small tear,SYNTHETIC DEMO DATA,QUALITY
+SYN-100188,SKU103,Nila Anarkali Kurti,V2 Jaipur Textiles,XL,Fit,waist tight but rest okay totally unexpected,SYNTHETIC DEMO DATA,FIT
+SYN-100189,SKU105,Tara Linen Shirt,V3 Urban Weave,XXL,Quality,fabric feels very cheap,SYNTHETIC DEMO DATA,QUALITY
+SYN-100190,SKU113,Leela Rayon Kurti,V7 Thread Theory,S,Other,shoulder romba tight,SYNTHETIC DEMO DATA,FIT
+SYN-100191,SKU103,Nila Anarkali Kurti,V2 Jaipur Textiles,S,Other,,SYNTHETIC DEMO DATA,QUALITY
+SYN-100192,SKU111,Avni Denim Jacket,V6 Indigo Works,XS,Other,hmm not sure yaar,SYNTHETIC DEMO DATA,OTHER
+SYN-100193,SKU102,Mira Cotton Kurti,V1 North Looms,XXL,Other,didn't like it,SYNTHETIC DEMO DATA,OTHER
+SYN-100194,SKU106,Kavya Palazzo Set,V3 Urban Weave,L,Other,not happy,SYNTHETIC DEMO DATA,OTHER
+SYN-100195,SKU110,Sana Ribbed Top,V5 Coastline Apparel,L,Other,hmm not sure yaar,SYNTHETIC DEMO DATA,OTHER
+SYN-100196,SKU107,Meher Festive Kurta,V4 Saffron Studio,XL,Other,zip is defective,SYNTHETIC DEMO DATA,QUALITY
+SYN-100197,SKU114,Pihu Casual Tee,V7 Thread Theory,XXL,Other,return please,SYNTHETIC DEMO DATA,OTHER
+SYN-100198,SKU116,Veda Oversized Shirt,V8 Form & Fit,XS,Other,size feels weird,SYNTHETIC DEMO DATA,OTHER
+SYN-100199,SKU106,Kavya Palazzo Set,V3 Urban Weave,L,Quality,fabric feels very cheap,SYNTHETIC DEMO DATA,QUALITY
+SYN-100200,SKU112,Diya Summer Co-ord,V6 Indigo Works,XS,Other,change my mind for my usual size,SYNTHETIC DEMO DATA,OTHER
+SYN-100201,SKU112,Diya Summer Co-ord,V6 Indigo Works,S,Fit,bahut bada ho gaya,SYNTHETIC DEMO DATA,FIT
+SYN-100202,SKU105,Tara Linen Shirt,V3 Urban Weave,L,Fit,too long for me,SYNTHETIC DEMO DATA,FIT
+SYN-100203,SKU101,Aarna Straight Kurti,V1 North Looms,XL,Product,colour different from image yaar,SYNTHETIC DEMO DATA,PRODUCT
+SYN-100204,SKU114,Pihu Casual Tee,V7 Thread Theory,XL,Other,fit is weird around the chest pls help,SYNTHETIC DEMO DATA,FIT
+SYN-100205,SKU115,Anaya Office Trousers,V8 Form & Fit,S,Fit,,SYNTHETIC DEMO DATA,FIT
+SYN-100206,SKU105,Tara Linen Shirt,V3 Urban Weave,XXL,Other,material quality not good,SYNTHETIC DEMO DATA,QUALITY
+SYN-100207,SKU103,Nila Anarkali Kurti,V2 Jaipur Textiles,XL,Fit,shoulder fitting off hai for my usual size,SYNTHETIC DEMO DATA,FIT
+SYN-100208,SKU101,Aarna Straight Kurti,V1 North Looms,XS,Other,too long for me,SYNTHETIC DEMO DATA,FIT
+SYN-100209,SKU112,Diya Summer Co-ord,V6 Indigo Works,XXL,Other,looks odd totally unexpected,SYNTHETIC DEMO DATA,OTHER
+SYN-100210,SKU111,Avni Denim Jacket,V6 Indigo Works,XXL,Other,shoulder fitting off hai,SYNTHETIC DEMO DATA,FIT
+SYN-100211,SKU115,Anaya Office Trousers,V8 Form & Fit,L,Other,late delivery so returning,SYNTHETIC DEMO DATA,DELIVERY
+SYN-100212,SKU102,Mira Cotton Kurti,V1 North Looms,M,Other,material quality not good,SYNTHETIC DEMO DATA,QUALITY
+SYN-100213,SKU113,Leela Rayon Kurti,V7 Thread Theory,XS,Other,hmm not sure totally unexpected,SYNTHETIC DEMO DATA,OTHER
+SYN-100214,SKU111,Avni Denim Jacket,V6 Indigo Works,L,Other,received with a small tear,SYNTHETIC DEMO DATA,QUALITY
+SYN-100215,SKU111,Avni Denim Jacket,V6 Indigo Works,M,Other,hmm not sure,SYNTHETIC DEMO DATA,OTHER
+SYN-100216,SKU103,Nila Anarkali Kurti,V2 Jaipur Textiles,M,Other,stitching came undone after one wear,SYNTHETIC DEMO DATA,QUALITY
+SYN-100217,SKU111,Avni Denim Jacket,V6 Indigo Works,L,Fit,bahut bada ho gaya,SYNTHETIC DEMO DATA,FIT
+SYN-100218,SKU106,Kavya Palazzo Set,V3 Urban Weave,XL,Other,looks odd,SYNTHETIC DEMO DATA,OTHER
+SYN-100219,SKU114,Pihu Casual Tee,V7 Thread Theory,XXL,Quality,material quality not good totally unexpected,SYNTHETIC DEMO DATA,QUALITY
+SYN-100220,SKU106,Kavya Palazzo Set,V3 Urban Weave,S,Other,didn't like it,SYNTHETIC DEMO DATA,OTHER
+SYN-100221,SKU103,Nila Anarkali Kurti,V2 Jaipur Textiles,S,Other,shoulder fitting off hai,SYNTHETIC DEMO DATA,FIT
+SYN-100222,SKU115,Anaya Office Trousers,V8 Form & Fit,M,Other,received after expected date,SYNTHETIC DEMO DATA,DELIVERY
+SYN-100223,SKU113,Leela Rayon Kurti,V7 Thread Theory,XL,Other,,SYNTHETIC DEMO DATA,QUALITY
+SYN-100224,SKU113,Leela Rayon Kurti,V7 Thread Theory,XL,Other,size feels weird :( ,SYNTHETIC DEMO DATA,OTHER
+SYN-100225,SKU110,Sana Ribbed Top,V5 Coastline Apparel,XXL,Other,hmm not sure yaar,SYNTHETIC DEMO DATA,OTHER
+SYN-100226,SKU115,Anaya Office Trousers,V8 Form & Fit,M,Delivery,received after expected date,SYNTHETIC DEMO DATA,DELIVERY
+SYN-100227,SKU110,Sana Ribbed Top,V5 Coastline Apparel,S,Other,didn't like it,SYNTHETIC DEMO DATA,OTHER
+SYN-100228,SKU105,Tara Linen Shirt,V3 Urban Weave,XL,Fit,too long for me for my usual size,SYNTHETIC DEMO DATA,FIT
+SYN-100229,SKU105,Tara Linen Shirt,V3 Urban Weave,XL,Delivery,parcel arrived after the event,SYNTHETIC DEMO DATA,DELIVERY
+SYN-100230,SKU114,Pihu Casual Tee,V7 Thread Theory,XXL,Other,size feels weird :( ,SYNTHETIC DEMO DATA,OTHER
+SYN-100231,SKU112,Diya Summer Co-ord,V6 Indigo Works,XS,Fit,length is too short,SYNTHETIC DEMO DATA,FIT
+SYN-100232,SKU104,Riya Printed Shirt,V2 Jaipur Textiles,XL,Other,image wala shade nahi hai :( ,SYNTHETIC DEMO DATA,PRODUCT
+SYN-100233,SKU110,Sana Ribbed Top,V5 Coastline Apparel,XL,Other,okay but no for my usual size,SYNTHETIC DEMO DATA,OTHER
+SYN-100234,SKU103,Nila Anarkali Kurti,V2 Jaipur Textiles,XL,Other,length is too short,SYNTHETIC DEMO DATA,FIT
+SYN-100235,SKU111,Avni Denim Jacket,V6 Indigo Works,XXL,Other,,SYNTHETIC DEMO DATA,OTHER
+SYN-100236,SKU109,Zoya Flared Dress,V5 Coastline Apparel,XL,Delivery,,SYNTHETIC DEMO DATA,DELIVERY
+SYN-100237,SKU110,Sana Ribbed Top,V5 Coastline Apparel,M,Delivery,package was delivered to wrong place,SYNTHETIC DEMO DATA,DELIVERY
+SYN-100238,SKU115,Anaya Office Trousers,V8 Form & Fit,XL,Other,size is smaller than expected,SYNTHETIC DEMO DATA,FIT
+SYN-100239,SKU105,Tara Linen Shirt,V3 Urban Weave,S,Quality,received with a small tear,SYNTHETIC DEMO DATA,QUALITY
+SYN-100240,SKU112,Diya Summer Co-ord,V6 Indigo Works,S,Product,design looked different online,SYNTHETIC DEMO DATA,PRODUCT
+SYN-100241,SKU104,Riya Printed Shirt,V2 Jaipur Textiles,S,Fit,waist tight but rest okay,SYNTHETIC DEMO DATA,FIT
+SYN-100242,SKU111,Avni Denim Jacket,V6 Indigo Works,L,Other,looks odd yaar,SYNTHETIC DEMO DATA,OTHER
+SYN-100243,SKU110,Sana Ribbed Top,V5 Coastline Apparel,S,Product,design looked different online,SYNTHETIC DEMO DATA,PRODUCT
+SYN-100244,SKU112,Diya Summer Co-ord,V6 Indigo Works,L,Fit,fit is weird around the chest,SYNTHETIC DEMO DATA,FIT
+SYN-100245,SKU110,Sana Ribbed Top,V5 Coastline Apparel,L,Product,design looked different online,SYNTHETIC DEMO DATA,PRODUCT
+SYN-100246,SKU112,Diya Summer Co-ord,V6 Indigo Works,XS,Fit,size is smaller than expected,SYNTHETIC DEMO DATA,FIT
+SYN-100247,SKU113,Leela Rayon Kurti,V7 Thread Theory,S,Product,image wala shade nahi hai,SYNTHETIC DEMO DATA,PRODUCT
+SYN-100248,SKU104,Riya Printed Shirt,V2 Jaipur Textiles,XL,Other,received with a small tear,SYNTHETIC DEMO DATA,QUALITY
+SYN-100249,SKU113,Leela Rayon Kurti,V7 Thread Theory,L,Product,colour different from image totally unexpected,SYNTHETIC DEMO DATA,PRODUCT
+SYN-100250,SKU105,Tara Linen Shirt,V3 Urban Weave,XL,Other,courier delayed too much for my usual size,SYNTHETIC DEMO DATA,DELIVERY
+SYN-100251,SKU110,Sana Ribbed Top,V5 Coastline Apparel,M,Delivery,late delivery so returning,SYNTHETIC DEMO DATA,DELIVERY
+SYN-100252,SKU111,Avni Denim Jacket,V6 Indigo Works,XXL,Other,change my mind,SYNTHETIC DEMO DATA,OTHER
+SYN-100253,SKU101,Aarna Straight Kurti,V1 North Looms,XL,Fit,M size bhi chota laga,SYNTHETIC DEMO DATA,FIT
+SYN-100254,SKU108,Ira Everyday Top,V4 Saffron Studio,L,Other,hmm not sure totally unexpected,SYNTHETIC DEMO DATA,OTHER
+SYN-100255,SKU105,Tara Linen Shirt,V3 Urban Weave,M,Other,return please totally unexpected,SYNTHETIC DEMO DATA,OTHER
+SYN-100256,SKU114,Pihu Casual Tee,V7 Thread Theory,XXL,Fit,size chart didn't match,SYNTHETIC DEMO DATA,FIT
+SYN-100257,SKU102,Mira Cotton Kurti,V1 North Looms,L,Other,return please,SYNTHETIC DEMO DATA,OTHER
+SYN-100258,SKU111,Avni Denim Jacket,V6 Indigo Works,XXL,Other,hmm not sure,SYNTHETIC DEMO DATA,OTHER
+SYN-100259,SKU109,Zoya Flared Dress,V5 Coastline Apparel,M,Other,delivery bahut late hui,SYNTHETIC DEMO DATA,DELIVERY
+SYN-100260,SKU110,Sana Ribbed Top,V5 Coastline Apparel,XXL,Other,hmm not sure :( ,SYNTHETIC DEMO DATA,OTHER
+SYN-100261,SKU109,Zoya Flared Dress,V5 Coastline Apparel,S,Other,cloth quality bilkul achi nahi,SYNTHETIC DEMO DATA,QUALITY
+SYN-100262,SKU110,Sana Ribbed Top,V5 Coastline Apparel,S,Fit,shoulder romba tight,SYNTHETIC DEMO DATA,FIT
+SYN-100263,SKU107,Meher Festive Kurta,V4 Saffron Studio,XL,Other,okay but no,SYNTHETIC DEMO DATA,OTHER
+SYN-100264,SKU108,Ira Everyday Top,V4 Saffron Studio,XXL,Other,thread coming out,SYNTHETIC DEMO DATA,QUALITY
+SYN-100265,SKU116,Veda Oversized Shirt,V8 Form & Fit,XXL,Other,shirt loose hai for my usual size,SYNTHETIC DEMO DATA,FIT
+SYN-100266,SKU116,Veda Oversized Shirt,V8 Form & Fit,XS,Other,thread coming out,SYNTHETIC DEMO DATA,QUALITY
+SYN-100267,SKU103,Nila Anarkali Kurti,V2 Jaipur Textiles,S,Quality,thread coming out,SYNTHETIC DEMO DATA,QUALITY
+SYN-100268,SKU114,Pihu Casual Tee,V7 Thread Theory,L,Other,didn't like it,SYNTHETIC DEMO DATA,OTHER
+SYN-100269,SKU106,Kavya Palazzo Set,V3 Urban Weave,XS,Other,,SYNTHETIC DEMO DATA,OTHER
+SYN-100270,SKU111,Avni Denim Jacket,V6 Indigo Works,M,Quality,zip is defective,SYNTHETIC DEMO DATA,QUALITY
+SYN-100271,SKU107,Meher Festive Kurta,V4 Saffron Studio,XS,Other,looks odd,SYNTHETIC DEMO DATA,OTHER
+SYN-100272,SKU111,Avni Denim Jacket,V6 Indigo Works,XL,Other,return please totally unexpected,SYNTHETIC DEMO DATA,OTHER
+SYN-100273,SKU111,Avni Denim Jacket,V6 Indigo Works,XS,Fit,not fitting properly yaar,SYNTHETIC DEMO DATA,FIT
+SYN-100274,SKU109,Zoya Flared Dress,V5 Coastline Apparel,XXL,Other,zip is defective,SYNTHETIC DEMO DATA,QUALITY
+SYN-100275,SKU101,Aarna Straight Kurti,V1 North Looms,M,Other,shoulder fitting off hai,SYNTHETIC DEMO DATA,FIT
+SYN-100276,SKU106,Kavya Palazzo Set,V3 Urban Weave,M,Quality,colour faded on first wash,SYNTHETIC DEMO DATA,QUALITY
+SYN-100277,SKU108,Ira Everyday Top,V4 Saffron Studio,M,Fit,shirt loose hai,SYNTHETIC DEMO DATA,FIT
+SYN-100278,SKU114,Pihu Casual Tee,V7 Thread Theory,S,Other,hmm not sure,SYNTHETIC DEMO DATA,OTHER
+SYN-100279,SKU103,Nila Anarkali Kurti,V2 Jaipur Textiles,XL,Fit,shoulder fitting off hai for my usual size,SYNTHETIC DEMO DATA,FIT
+SYN-100280,SKU107,Meher Festive Kurta,V4 Saffron Studio,XXL,Delivery,courier delayed too much for my usual size,SYNTHETIC DEMO DATA,DELIVERY
+SYN-100281,SKU116,Veda Oversized Shirt,V8 Form & Fit,L,Fit,armhole feels tight,SYNTHETIC DEMO DATA,FIT
+SYN-100282,SKU102,Mira Cotton Kurti,V1 North Looms,XXL,Product,image wala shade nahi hai,SYNTHETIC DEMO DATA,PRODUCT
+SYN-100283,SKU107,Meher Festive Kurta,V4 Saffron Studio,XS,Delivery,delivery came late,SYNTHETIC DEMO DATA,DELIVERY
+SYN-100284,SKU103,Nila Anarkali Kurti,V2 Jaipur Textiles,XXL,Other,late delivery so returning,SYNTHETIC DEMO DATA,DELIVERY
+SYN-100285,SKU114,Pihu Casual Tee,V7 Thread Theory,XS,Other,cloth quality bilkul achi nahi,SYNTHETIC DEMO DATA,QUALITY
+SYN-100286,SKU105,Tara Linen Shirt,V3 Urban Weave,S,Other,received after expected date for my usual size,SYNTHETIC DEMO DATA,DELIVERY
+SYN-100287,SKU101,Aarna Straight Kurti,V1 North Looms,L,Other,colour faded on first wash,SYNTHETIC DEMO DATA,QUALITY
+SYN-100288,SKU108,Ira Everyday Top,V4 Saffron Studio,XS,Quality,received with a small tear yaar,SYNTHETIC DEMO DATA,QUALITY
+SYN-100289,SKU102,Mira Cotton Kurti,V1 North Looms,S,Other,change my mind,SYNTHETIC DEMO DATA,OTHER
+SYN-100290,SKU107,Meher Festive Kurta,V4 Saffron Studio,S,Fit,size is smaller than expected,SYNTHETIC DEMO DATA,FIT
+SYN-100291,SKU102,Mira Cotton Kurti,V1 North Looms,S,Quality,thread coming out,SYNTHETIC DEMO DATA,QUALITY
+SYN-100292,SKU110,Sana Ribbed Top,V5 Coastline Apparel,S,Fit,bahut bada ho gaya,SYNTHETIC DEMO DATA,FIT
+SYN-100293,SKU110,Sana Ribbed Top,V5 Coastline Apparel,XL,Other,return please,SYNTHETIC DEMO DATA,OTHER
+SYN-100294,SKU106,Kavya Palazzo Set,V3 Urban Weave,XXL,Other,tracking never updated,SYNTHETIC DEMO DATA,DELIVERY
+SYN-100295,SKU113,Leela Rayon Kurti,V7 Thread Theory,S,Other,looks odd,SYNTHETIC DEMO DATA,OTHER
+SYN-100296,SKU116,Veda Oversized Shirt,V8 Form & Fit,XS,Fit,sleeves are too short totally unexpected,SYNTHETIC DEMO DATA,FIT
+SYN-100297,SKU114,Pihu Casual Tee,V7 Thread Theory,XS,Other,didn't like it,SYNTHETIC DEMO DATA,OTHER
+SYN-100298,SKU115,Anaya Office Trousers,V8 Form & Fit,L,Other,design looked different online,SYNTHETIC DEMO DATA,PRODUCT
+SYN-100299,SKU102,Mira Cotton Kurti,V1 North Looms,S,Other,return please,SYNTHETIC DEMO DATA,OTHER
+SYN-100300,SKU116,Veda Oversized Shirt,V8 Form & Fit,XXL,Other,bahut bada ho gaya pls help,SYNTHETIC DEMO DATA,FIT
+SYN-100301,SKU104,Riya Printed Shirt,V2 Jaipur Textiles,L,Other,hmm not sure,SYNTHETIC DEMO DATA,OTHER
+SYN-100302,SKU108,Ira Everyday Top,V4 Saffron Studio,M,Other,image wala shade nahi hai,SYNTHETIC DEMO DATA,PRODUCT
+SYN-100303,SKU112,Diya Summer Co-ord,V6 Indigo Works,M,Product,pattern is misleading,SYNTHETIC DEMO DATA,PRODUCT
+SYN-100304,SKU107,Meher Festive Kurta,V4 Saffron Studio,XL,Other,cloth quality bilkul achi nahi yaar,SYNTHETIC DEMO DATA,QUALITY
+SYN-100305,SKU114,Pihu Casual Tee,V7 Thread Theory,XL,Other,thread coming out,SYNTHETIC DEMO DATA,QUALITY
+SYN-100306,SKU111,Avni Denim Jacket,V6 Indigo Works,S,Quality,zip is defective,SYNTHETIC DEMO DATA,QUALITY
+SYN-100307,SKU112,Diya Summer Co-ord,V6 Indigo Works,XL,Fit,too long for me for my usual size,SYNTHETIC DEMO DATA,FIT
+SYN-100308,SKU102,Mira Cotton Kurti,V1 North Looms,L,Other,size feels weird,SYNTHETIC DEMO DATA,OTHER
+SYN-100309,SKU105,Tara Linen Shirt,V3 Urban Weave,M,Other,,SYNTHETIC DEMO DATA,OTHER
+SYN-100310,SKU102,Mira Cotton Kurti,V1 North Looms,L,Delivery,,SYNTHETIC DEMO DATA,DELIVERY
+SYN-100311,SKU101,Aarna Straight Kurti,V1 North Looms,XXL,Fit,M size bhi chota laga,SYNTHETIC DEMO DATA,FIT
+SYN-100312,SKU114,Pihu Casual Tee,V7 Thread Theory,XL,Other,didn't like it pls help,SYNTHETIC DEMO DATA,OTHER
+SYN-100313,SKU109,Zoya Flared Dress,V5 Coastline Apparel,L,Other,okay but no,SYNTHETIC DEMO DATA,OTHER
+SYN-100314,SKU108,Ira Everyday Top,V4 Saffron Studio,XS,Other,return please pls help,SYNTHETIC DEMO DATA,OTHER
+SYN-100315,SKU103,Nila Anarkali Kurti,V2 Jaipur Textiles,S,Other,waist tight but rest okay,SYNTHETIC DEMO DATA,FIT
+SYN-100316,SKU103,Nila Anarkali Kurti,V2 Jaipur Textiles,XS,Fit,actual measurement chart se alag hai,SYNTHETIC DEMO DATA,FIT
+SYN-100317,SKU102,Mira Cotton Kurti,V1 North Looms,XL,Other,too long for me pls help,SYNTHETIC DEMO DATA,FIT
+SYN-100318,SKU102,Mira Cotton Kurti,V1 North Looms,XXL,Fit,bahut bada ho gaya yaar,SYNTHETIC DEMO DATA,FIT
+SYN-100319,SKU113,Leela Rayon Kurti,V7 Thread Theory,XXL,Other,okay but no yaar,SYNTHETIC DEMO DATA,OTHER
+SYN-100320,SKU111,Avni Denim Jacket,V6 Indigo Works,XXL,Other,fabric feels very cheap,SYNTHETIC DEMO DATA,QUALITY
+SYN-100321,SKU112,Diya Summer Co-ord,V6 Indigo Works,XL,Fit,actual measurement chart se alag hai pls help,SYNTHETIC DEMO DATA,FIT
+SYN-100322,SKU113,Leela Rayon Kurti,V7 Thread Theory,S,Other,looks odd :( ,SYNTHETIC DEMO DATA,OTHER
+SYN-100323,SKU112,Diya Summer Co-ord,V6 Indigo Works,XS,Product,style did not suit me,SYNTHETIC DEMO DATA,PRODUCT
+SYN-100324,SKU110,Sana Ribbed Top,V5 Coastline Apparel,S,Other,size feels weird yaar,SYNTHETIC DEMO DATA,OTHER
+SYN-100325,SKU113,Leela Rayon Kurti,V7 Thread Theory,XS,Quality,stitching came undone after one wear :( ,SYNTHETIC DEMO DATA,QUALITY
+SYN-100326,SKU105,Tara Linen Shirt,V3 Urban Weave,XS,Other,actual measurement chart se alag hai,SYNTHETIC DEMO DATA,FIT
+SYN-100327,SKU103,Nila Anarkali Kurti,V2 Jaipur Textiles,XS,Fit,shoulder romba tight,SYNTHETIC DEMO DATA,FIT
+SYN-100328,SKU110,Sana Ribbed Top,V5 Coastline Apparel,S,Quality,stitching came undone after one wear,SYNTHETIC DEMO DATA,QUALITY
+SYN-100329,SKU106,Kavya Palazzo Set,V3 Urban Weave,S,Other,didn't like it :( ,SYNTHETIC DEMO DATA,OTHER
+SYN-100330,SKU114,Pihu Casual Tee,V7 Thread Theory,S,Other,colour faded on first wash,SYNTHETIC DEMO DATA,QUALITY
+SYN-100331,SKU116,Veda Oversized Shirt,V8 Form & Fit,L,Other,print is not as shown,SYNTHETIC DEMO DATA,PRODUCT
+SYN-100332,SKU111,Avni Denim Jacket,V6 Indigo Works,XXL,Other,change my mind,SYNTHETIC DEMO DATA,OTHER
+SYN-100333,SKU105,Tara Linen Shirt,V3 Urban Weave,M,Other,thread coming out,SYNTHETIC DEMO DATA,QUALITY
+SYN-100334,SKU110,Sana Ribbed Top,V5 Coastline Apparel,M,Other,hmm not sure,SYNTHETIC DEMO DATA,OTHER
+SYN-100335,SKU113,Leela Rayon Kurti,V7 Thread Theory,XL,Quality,thread coming out,SYNTHETIC DEMO DATA,QUALITY
+SYN-100336,SKU101,Aarna Straight Kurti,V1 North Looms,XXL,Delivery,late delivery so returning,SYNTHETIC DEMO DATA,DELIVERY
+SYN-100337,SKU103,Nila Anarkali Kurti,V2 Jaipur Textiles,M,Other,style did not suit me,SYNTHETIC DEMO DATA,PRODUCT
+SYN-100338,SKU105,Tara Linen Shirt,V3 Urban Weave,XL,Other,change my mind for my usual size,SYNTHETIC DEMO DATA,OTHER
+SYN-100339,SKU114,Pihu Casual Tee,V7 Thread Theory,XS,Product,product looks different in real,SYNTHETIC DEMO DATA,PRODUCT
+SYN-100340,SKU104,Riya Printed Shirt,V2 Jaipur Textiles,XXL,Other,looks odd for my usual size,SYNTHETIC DEMO DATA,OTHER
+SYN-100341,SKU113,Leela Rayon Kurti,V7 Thread Theory,M,Other,looks odd,SYNTHETIC DEMO DATA,OTHER
+SYN-100342,SKU108,Ira Everyday Top,V4 Saffron Studio,XL,Product,print is not as shown,SYNTHETIC DEMO DATA,PRODUCT
+SYN-100343,SKU105,Tara Linen Shirt,V3 Urban Weave,XS,Quality,material quality not good,SYNTHETIC DEMO DATA,QUALITY
+SYN-100344,SKU104,Riya Printed Shirt,V2 Jaipur Textiles,L,Other,didn't like it :( ,SYNTHETIC DEMO DATA,OTHER
+SYN-100345,SKU112,Diya Summer Co-ord,V6 Indigo Works,XS,Other,pattern is misleading,SYNTHETIC DEMO DATA,PRODUCT
+SYN-100346,SKU104,Riya Printed Shirt,V2 Jaipur Textiles,XXL,Other,bahut bada ho gaya,SYNTHETIC DEMO DATA,FIT
+SYN-100347,SKU108,Ira Everyday Top,V4 Saffron Studio,L,Other,wrong product received,SYNTHETIC DEMO DATA,PRODUCT
+SYN-100348,SKU106,Kavya Palazzo Set,V3 Urban Weave,L,Fit,actual measurement chart se alag hai,SYNTHETIC DEMO DATA,FIT
+SYN-100349,SKU114,Pihu Casual Tee,V7 Thread Theory,XS,Other,thread coming out totally unexpected,SYNTHETIC DEMO DATA,QUALITY
+SYN-100350,SKU106,Kavya Palazzo Set,V3 Urban Weave,XL,Quality,thread coming out,SYNTHETIC DEMO DATA,QUALITY
+SYN-100351,SKU111,Avni Denim Jacket,V6 Indigo Works,XL,Delivery,tracking never updated,SYNTHETIC DEMO DATA,DELIVERY
+SYN-100352,SKU106,Kavya Palazzo Set,V3 Urban Weave,M,Other,okay but no,SYNTHETIC DEMO DATA,OTHER
+SYN-100353,SKU104,Riya Printed Shirt,V2 Jaipur Textiles,XL,Other,not fitting properly totally unexpected,SYNTHETIC DEMO DATA,FIT
+SYN-100354,SKU105,Tara Linen Shirt,V3 Urban Weave,S,Delivery,tracking never updated totally unexpected,SYNTHETIC DEMO DATA,DELIVERY
+SYN-100355,SKU106,Kavya Palazzo Set,V3 Urban Weave,XS,Product,wrong product received,SYNTHETIC DEMO DATA,PRODUCT
+SYN-100356,SKU116,Veda Oversized Shirt,V8 Form & Fit,XXL,Fit,waist tight but rest okay,SYNTHETIC DEMO DATA,FIT
+SYN-100357,SKU116,Veda Oversized Shirt,V8 Form & Fit,S,Other,zip is defective,SYNTHETIC DEMO DATA,QUALITY
+SYN-100358,SKU110,Sana Ribbed Top,V5 Coastline Apparel,XXL,Fit,sleeves are too short,SYNTHETIC DEMO DATA,FIT
+SYN-100359,SKU116,Veda Oversized Shirt,V8 Form & Fit,M,Quality,stitching came undone after one wear,SYNTHETIC DEMO DATA,QUALITY
+SYN-100360,SKU102,Mira Cotton Kurti,V1 North Looms,XXL,Other,hmm not sure,SYNTHETIC DEMO DATA,OTHER
+SYN-100361,SKU108,Ira Everyday Top,V4 Saffron Studio,L,Quality,material quality not good,SYNTHETIC DEMO DATA,QUALITY
+SYN-100362,SKU104,Riya Printed Shirt,V2 Jaipur Textiles,XXL,Other,return please totally unexpected,SYNTHETIC DEMO DATA,OTHER
+SYN-100363,SKU114,Pihu Casual Tee,V7 Thread Theory,XL,Fit,shirt loose hai,SYNTHETIC DEMO DATA,FIT
+SYN-100364,SKU112,Diya Summer Co-ord,V6 Indigo Works,XL,Product,wrong product received totally unexpected,SYNTHETIC DEMO DATA,PRODUCT
+SYN-100365,SKU104,Riya Printed Shirt,V2 Jaipur Textiles,S,Fit,actual measurement chart se alag hai,SYNTHETIC DEMO DATA,FIT
+SYN-100366,SKU105,Tara Linen Shirt,V3 Urban Weave,L,Quality,received with a small tear,SYNTHETIC DEMO DATA,QUALITY
+SYN-100367,SKU105,Tara Linen Shirt,V3 Urban Weave,XS,Other,package was delivered to wrong place,SYNTHETIC DEMO DATA,DELIVERY
+SYN-100368,SKU113,Leela Rayon Kurti,V7 Thread Theory,L,Product,image wala shade nahi hai,SYNTHETIC DEMO DATA,PRODUCT
+SYN-100369,SKU111,Avni Denim Jacket,V6 Indigo Works,M,Delivery,parcel arrived after the event,SYNTHETIC DEMO DATA,DELIVERY
+SYN-100370,SKU103,Nila Anarkali Kurti,V2 Jaipur Textiles,M,Quality,cloth quality bilkul achi nahi,SYNTHETIC DEMO DATA,QUALITY
+SYN-100371,SKU110,Sana Ribbed Top,V5 Coastline Apparel,XXL,Other,fabric feels very cheap,SYNTHETIC DEMO DATA,QUALITY
+SYN-100372,SKU102,Mira Cotton Kurti,V1 North Looms,L,Other,armhole feels tight yaar,SYNTHETIC DEMO DATA,FIT
+SYN-100373,SKU107,Meher Festive Kurta,V4 Saffron Studio,M,Other,didn't like it,SYNTHETIC DEMO DATA,OTHER
+SYN-100374,SKU103,Nila Anarkali Kurti,V2 Jaipur Textiles,L,Other,colour faded on first wash totally unexpected,SYNTHETIC DEMO DATA,QUALITY
+SYN-100375,SKU110,Sana Ribbed Top,V5 Coastline Apparel,S,Other,return please,SYNTHETIC DEMO DATA,OTHER
+SYN-100376,SKU116,Veda Oversized Shirt,V8 Form & Fit,M,Other,sleeves are too short,SYNTHETIC DEMO DATA,FIT
+SYN-100377,SKU104,Riya Printed Shirt,V2 Jaipur Textiles,XS,Other,change my mind,SYNTHETIC DEMO DATA,OTHER
+SYN-100378,SKU104,Riya Printed Shirt,V2 Jaipur Textiles,S,Fit,shoulder fitting off hai,SYNTHETIC DEMO DATA,FIT
+SYN-100379,SKU105,Tara Linen Shirt,V3 Urban Weave,S,Other,kurti bahut tight hai,SYNTHETIC DEMO DATA,FIT
+SYN-100380,SKU105,Tara Linen Shirt,V3 Urban Weave,XS,Other,hmm not sure,SYNTHETIC DEMO DATA,OTHER
+SYN-100381,SKU113,Leela Rayon Kurti,V7 Thread Theory,S,Quality,cloth quality bilkul achi nahi yaar,SYNTHETIC DEMO DATA,QUALITY
+SYN-100382,SKU110,Sana Ribbed Top,V5 Coastline Apparel,XL,Other,not happy,SYNTHETIC DEMO DATA,OTHER
+SYN-100383,SKU107,Meher Festive Kurta,V4 Saffron Studio,S,Other,okay but no,SYNTHETIC DEMO DATA,OTHER
+SYN-100384,SKU116,Veda Oversized Shirt,V8 Form & Fit,XS,Quality,thread coming out,SYNTHETIC DEMO DATA,QUALITY
+SYN-100385,SKU112,Diya Summer Co-ord,V6 Indigo Works,XL,Other,didn't like it,SYNTHETIC DEMO DATA,OTHER
+SYN-100386,SKU106,Kavya Palazzo Set,V3 Urban Weave,XS,Other,,SYNTHETIC DEMO DATA,OTHER
+SYN-100387,SKU113,Leela Rayon Kurti,V7 Thread Theory,XL,Product,style did not suit me,SYNTHETIC DEMO DATA,PRODUCT
+SYN-100388,SKU105,Tara Linen Shirt,V3 Urban Weave,M,Other,colour faded on first wash yaar,SYNTHETIC DEMO DATA,QUALITY
+SYN-100389,SKU113,Leela Rayon Kurti,V7 Thread Theory,XS,Delivery,parcel arrived after the event,SYNTHETIC DEMO DATA,DELIVERY
+SYN-100390,SKU108,Ira Everyday Top,V4 Saffron Studio,XXL,Other,actual measurement chart se alag hai for my usual size,SYNTHETIC DEMO DATA,FIT
+SYN-100391,SKU106,Kavya Palazzo Set,V3 Urban Weave,XL,Fit,shirt loose hai,SYNTHETIC DEMO DATA,FIT
+SYN-100392,SKU109,Zoya Flared Dress,V5 Coastline Apparel,XS,Fit,shirt loose hai,SYNTHETIC DEMO DATA,FIT
+SYN-100393,SKU101,Aarna Straight Kurti,V1 North Looms,XXL,Fit,actual measurement chart se alag hai pls help,SYNTHETIC DEMO DATA,FIT
+SYN-100394,SKU103,Nila Anarkali Kurti,V2 Jaipur Textiles,XS,Other,shoulder fitting off hai for my usual size,SYNTHETIC DEMO DATA,FIT
+SYN-100395,SKU104,Riya Printed Shirt,V2 Jaipur Textiles,L,Fit,kurti bahut tight hai pls help,SYNTHETIC DEMO DATA,FIT
+SYN-100396,SKU105,Tara Linen Shirt,V3 Urban Weave,L,Fit,size is smaller than expected,SYNTHETIC DEMO DATA,FIT
+SYN-100397,SKU108,Ira Everyday Top,V4 Saffron Studio,XL,Quality,cloth quality bilkul achi nahi,SYNTHETIC DEMO DATA,QUALITY
+SYN-100398,SKU112,Diya Summer Co-ord,V6 Indigo Works,XS,Fit,size is smaller than expected for my usual size,SYNTHETIC DEMO DATA,FIT
+SYN-100399,SKU115,Anaya Office Trousers,V8 Form & Fit,M,Other,image wala shade nahi hai for my usual size,SYNTHETIC DEMO DATA,PRODUCT
+SYN-100400,SKU110,Sana Ribbed Top,V5 Coastline Apparel,S,Other,return please,SYNTHETIC DEMO DATA,OTHER
+SYN-100401,SKU108,Ira Everyday Top,V4 Saffron Studio,XS,Fit,actual measurement chart se alag hai for my usual size,SYNTHETIC DEMO DATA,FIT
+SYN-100402,SKU111,Avni Denim Jacket,V6 Indigo Works,XL,Other,waist tight but rest okay,SYNTHETIC DEMO DATA,FIT
+SYN-100403,SKU108,Ira Everyday Top,V4 Saffron Studio,XS,Other,material quality not good,SYNTHETIC DEMO DATA,QUALITY
+SYN-100404,SKU108,Ira Everyday Top,V4 Saffron Studio,XS,Other,change my mind,SYNTHETIC DEMO DATA,OTHER
+SYN-100405,SKU104,Riya Printed Shirt,V2 Jaipur Textiles,S,Product,style did not suit me for my usual size,SYNTHETIC DEMO DATA,PRODUCT
+SYN-100406,SKU108,Ira Everyday Top,V4 Saffron Studio,M,Quality,received with a small tear,SYNTHETIC DEMO DATA,QUALITY
+SYN-100407,SKU111,Avni Denim Jacket,V6 Indigo Works,XS,Product,print is not as shown yaar,SYNTHETIC DEMO DATA,PRODUCT
+SYN-100408,SKU105,Tara Linen Shirt,V3 Urban Weave,S,Fit,armhole feels tight,SYNTHETIC DEMO DATA,FIT
+SYN-100409,SKU115,Anaya Office Trousers,V8 Form & Fit,M,Fit,M size bhi chota laga,SYNTHETIC DEMO DATA,FIT
+SYN-100410,SKU102,Mira Cotton Kurti,V1 North Looms,XL,Other,bahut bada ho gaya totally unexpected,SYNTHETIC DEMO DATA,FIT
+SYN-100411,SKU102,Mira Cotton Kurti,V1 North Looms,L,Other,okay but no,SYNTHETIC DEMO DATA,OTHER
+SYN-100412,SKU108,Ira Everyday Top,V4 Saffron Studio,S,Other,not fitting properly,SYNTHETIC DEMO DATA,FIT
+SYN-100413,SKU105,Tara Linen Shirt,V3 Urban Weave,XL,Fit,waist tight but rest okay,SYNTHETIC DEMO DATA,FIT
+SYN-100414,SKU109,Zoya Flared Dress,V5 Coastline Apparel,S,Other,size feels weird pls help,SYNTHETIC DEMO DATA,OTHER
+SYN-100415,SKU103,Nila Anarkali Kurti,V2 Jaipur Textiles,L,Product,product looks different in real,SYNTHETIC DEMO DATA,PRODUCT
+SYN-100416,SKU113,Leela Rayon Kurti,V7 Thread Theory,S,Other,style did not suit me,SYNTHETIC DEMO DATA,PRODUCT
+SYN-100417,SKU109,Zoya Flared Dress,V5 Coastline Apparel,L,Quality,fabric feels very cheap for my usual size,SYNTHETIC DEMO DATA,QUALITY
+SYN-100418,SKU114,Pihu Casual Tee,V7 Thread Theory,XXL,Other,hmm not sure :( ,SYNTHETIC DEMO DATA,OTHER
+SYN-100419,SKU108,Ira Everyday Top,V4 Saffron Studio,XL,Other,delivery came late,SYNTHETIC DEMO DATA,DELIVERY
+SYN-100420,SKU116,Veda Oversized Shirt,V8 Form & Fit,S,Other,bahut bada ho gaya,SYNTHETIC DEMO DATA,FIT
+SYN-100421,SKU101,Aarna Straight Kurti,V1 North Looms,S,Product,image wala shade nahi hai,SYNTHETIC DEMO DATA,PRODUCT
+SYN-100422,SKU106,Kavya Palazzo Set,V3 Urban Weave,S,Fit,sleeves are too short totally unexpected,SYNTHETIC DEMO DATA,FIT
+SYN-100423,SKU113,Leela Rayon Kurti,V7 Thread Theory,M,Quality,fabric feels very cheap for my usual size,SYNTHETIC DEMO DATA,QUALITY
+SYN-100424,SKU101,Aarna Straight Kurti,V1 North Looms,S,Quality,received with a small tear,SYNTHETIC DEMO DATA,QUALITY
+SYN-100425,SKU116,Veda Oversized Shirt,V8 Form & Fit,S,Other,fabric feels very cheap,SYNTHETIC DEMO DATA,QUALITY
+SYN-100426,SKU101,Aarna Straight Kurti,V1 North Looms,XXL,Other,kurti bahut tight hai for my usual size,SYNTHETIC DEMO DATA,FIT
+SYN-100427,SKU106,Kavya Palazzo Set,V3 Urban Weave,XS,Other,looks odd yaar,SYNTHETIC DEMO DATA,OTHER
+SYN-100428,SKU112,Diya Summer Co-ord,V6 Indigo Works,M,Other,looks odd,SYNTHETIC DEMO DATA,OTHER
+SYN-100429,SKU110,Sana Ribbed Top,V5 Coastline Apparel,L,Quality,fabric feels very cheap,SYNTHETIC DEMO DATA,QUALITY
+SYN-100430,SKU111,Avni Denim Jacket,V6 Indigo Works,XXL,Other,shoulder fitting off hai for my usual size,SYNTHETIC DEMO DATA,FIT
+SYN-100431,SKU110,Sana Ribbed Top,V5 Coastline Apparel,XL,Other,kurti bahut tight hai,SYNTHETIC DEMO DATA,FIT
+SYN-100432,SKU102,Mira Cotton Kurti,V1 North Looms,XL,Other,bahut bada ho gaya,SYNTHETIC DEMO DATA,FIT
+SYN-100433,SKU104,Riya Printed Shirt,V2 Jaipur Textiles,S,Other,didn't like it pls help,SYNTHETIC DEMO DATA,OTHER
+SYN-100434,SKU103,Nila Anarkali Kurti,V2 Jaipur Textiles,XS,Other,product looks different in real,SYNTHETIC DEMO DATA,PRODUCT
+SYN-100435,SKU112,Diya Summer Co-ord,V6 Indigo Works,L,Other,stitching came undone after one wear,SYNTHETIC DEMO DATA,QUALITY
+SYN-100436,SKU106,Kavya Palazzo Set,V3 Urban Weave,L,Other,hmm not sure,SYNTHETIC DEMO DATA,OTHER
+SYN-100437,SKU108,Ira Everyday Top,V4 Saffron Studio,M,Other,,SYNTHETIC DEMO DATA,FIT
+SYN-100438,SKU104,Riya Printed Shirt,V2 Jaipur Textiles,XS,Other,length is too short,SYNTHETIC DEMO DATA,FIT
+SYN-100439,SKU111,Avni Denim Jacket,V6 Indigo Works,XL,Delivery,late delivery so returning,SYNTHETIC DEMO DATA,DELIVERY
+SYN-100440,SKU114,Pihu Casual Tee,V7 Thread Theory,XXL,Fit,not fitting properly yaar,SYNTHETIC DEMO DATA,FIT
+SYN-100441,SKU109,Zoya Flared Dress,V5 Coastline Apparel,L,Other,okay but no pls help,SYNTHETIC DEMO DATA,OTHER
+SYN-100442,SKU105,Tara Linen Shirt,V3 Urban Weave,XL,Fit,kurti bahut tight hai,SYNTHETIC DEMO DATA,FIT
+SYN-100443,SKU116,Veda Oversized Shirt,V8 Form & Fit,XS,Other,kurti bahut tight hai totally unexpected,SYNTHETIC DEMO DATA,FIT
+SYN-100444,SKU110,Sana Ribbed Top,V5 Coastline Apparel,XL,Other,hmm not sure,SYNTHETIC DEMO DATA,OTHER
+SYN-100445,SKU113,Leela Rayon Kurti,V7 Thread Theory,L,Other,waist tight but rest okay,SYNTHETIC DEMO DATA,FIT
+SYN-100446,SKU109,Zoya Flared Dress,V5 Coastline Apparel,XS,Fit,M size bhi chota laga,SYNTHETIC DEMO DATA,FIT
+SYN-100447,SKU103,Nila Anarkali Kurti,V2 Jaipur Textiles,L,Quality,cloth quality bilkul achi nahi,SYNTHETIC DEMO DATA,QUALITY
+SYN-100448,SKU114,Pihu Casual Tee,V7 Thread Theory,L,Other,hmm not sure,SYNTHETIC DEMO DATA,OTHER
+SYN-100449,SKU102,Mira Cotton Kurti,V1 North Looms,S,Product,wrong product received,SYNTHETIC DEMO DATA,PRODUCT
+SYN-100450,SKU107,Meher Festive Kurta,V4 Saffron Studio,XXL,Fit,actual measurement chart se alag hai totally unexpected,SYNTHETIC DEMO DATA,FIT
+SYN-100451,SKU105,Tara Linen Shirt,V3 Urban Weave,L,Other,okay but no totally unexpected,SYNTHETIC DEMO DATA,OTHER
+SYN-100452,SKU113,Leela Rayon Kurti,V7 Thread Theory,XXL,Other,image wala shade nahi hai,SYNTHETIC DEMO DATA,PRODUCT
+SYN-100453,SKU114,Pihu Casual Tee,V7 Thread Theory,XS,Fit,shirt loose hai for my usual size,SYNTHETIC DEMO DATA,FIT
+SYN-100454,SKU104,Riya Printed Shirt,V2 Jaipur Textiles,L,Delivery,parcel arrived after the event,SYNTHETIC DEMO DATA,DELIVERY
+SYN-100455,SKU109,Zoya Flared Dress,V5 Coastline Apparel,L,Other,zip is defective,SYNTHETIC DEMO DATA,QUALITY
+SYN-100456,SKU105,Tara Linen Shirt,V3 Urban Weave,L,Other,tracking never updated :( ,SYNTHETIC DEMO DATA,DELIVERY
+SYN-100457,SKU109,Zoya Flared Dress,V5 Coastline Apparel,XXL,Other,not happy :( ,SYNTHETIC DEMO DATA,OTHER
+SYN-100458,SKU104,Riya Printed Shirt,V2 Jaipur Textiles,M,Other,return please totally unexpected,SYNTHETIC DEMO DATA,OTHER
+SYN-100459,SKU114,Pihu Casual Tee,V7 Thread Theory,L,Other,parcel arrived after the event yaar,SYNTHETIC DEMO DATA,DELIVERY
+SYN-100460,SKU112,Diya Summer Co-ord,V6 Indigo Works,XL,Other,didn't like it totally unexpected,SYNTHETIC DEMO DATA,OTHER
+SYN-100461,SKU101,Aarna Straight Kurti,V1 North Looms,M,Fit,size chart didn't match,SYNTHETIC DEMO DATA,FIT
+SYN-100462,SKU107,Meher Festive Kurta,V4 Saffron Studio,XS,Other,zip is defective,SYNTHETIC DEMO DATA,QUALITY
+SYN-100463,SKU108,Ira Everyday Top,V4 Saffron Studio,S,Other,zip is defective,SYNTHETIC DEMO DATA,QUALITY
+SYN-100464,SKU109,Zoya Flared Dress,V5 Coastline Apparel,S,Other,size feels weird,SYNTHETIC DEMO DATA,OTHER
+SYN-100465,SKU108,Ira Everyday Top,V4 Saffron Studio,XXL,Delivery,delivery bahut late hui,SYNTHETIC DEMO DATA,DELIVERY
+SYN-100466,SKU101,Aarna Straight Kurti,V1 North Looms,M,Other,shirt loose hai,SYNTHETIC DEMO DATA,FIT
+SYN-100467,SKU110,Sana Ribbed Top,V5 Coastline Apparel,M,Other,okay but no,SYNTHETIC DEMO DATA,OTHER
+SYN-100468,SKU107,Meher Festive Kurta,V4 Saffron Studio,M,Product,,SYNTHETIC DEMO DATA,PRODUCT
+SYN-100469,SKU110,Sana Ribbed Top,V5 Coastline Apparel,M,Other,stitching came undone after one wear,SYNTHETIC DEMO DATA,QUALITY
+SYN-100470,SKU109,Zoya Flared Dress,V5 Coastline Apparel,XL,Quality,colour faded on first wash for my usual size,SYNTHETIC DEMO DATA,QUALITY
+SYN-100471,SKU113,Leela Rayon Kurti,V7 Thread Theory,M,Other,didn't like it,SYNTHETIC DEMO DATA,OTHER
+SYN-100472,SKU114,Pihu Casual Tee,V7 Thread Theory,M,Quality,material quality not good,SYNTHETIC DEMO DATA,QUALITY
+SYN-100473,SKU108,Ira Everyday Top,V4 Saffron Studio,S,Other,hmm not sure,SYNTHETIC DEMO DATA,OTHER
+SYN-100474,SKU106,Kavya Palazzo Set,V3 Urban Weave,S,Quality,zip is defective :( ,SYNTHETIC DEMO DATA,QUALITY
+SYN-100475,SKU111,Avni Denim Jacket,V6 Indigo Works,M,Other,delivery bahut late hui,SYNTHETIC DEMO DATA,DELIVERY
+SYN-100476,SKU112,Diya Summer Co-ord,V6 Indigo Works,XXL,Other,colour faded on first wash,SYNTHETIC DEMO DATA,QUALITY
+SYN-100477,SKU103,Nila Anarkali Kurti,V2 Jaipur Textiles,M,Other,size chart didn't match,SYNTHETIC DEMO DATA,FIT
+SYN-100478,SKU114,Pihu Casual Tee,V7 Thread Theory,L,Fit,shirt loose hai yaar,SYNTHETIC DEMO DATA,FIT
+SYN-100479,SKU105,Tara Linen Shirt,V3 Urban Weave,S,Quality,fabric feels very cheap,SYNTHETIC DEMO DATA,QUALITY
+SYN-100480,SKU111,Avni Denim Jacket,V6 Indigo Works,XL,Delivery,delivery came late,SYNTHETIC DEMO DATA,DELIVERY
+SYN-100481,SKU106,Kavya Palazzo Set,V3 Urban Weave,L,Other,design looked different online,SYNTHETIC DEMO DATA,PRODUCT
+SYN-100482,SKU113,Leela Rayon Kurti,V7 Thread Theory,XL,Fit,size chart didn't match,SYNTHETIC DEMO DATA,FIT
+SYN-100483,SKU107,Meher Festive Kurta,V4 Saffron Studio,M,Fit,kurti bahut tight hai,SYNTHETIC DEMO DATA,FIT
+SYN-100484,SKU110,Sana Ribbed Top,V5 Coastline Apparel,XS,Other,waist tight but rest okay,SYNTHETIC DEMO DATA,FIT
+SYN-100485,SKU110,Sana Ribbed Top,V5 Coastline Apparel,XXL,Other,hmm not sure,SYNTHETIC DEMO DATA,OTHER
+SYN-100486,SKU105,Tara Linen Shirt,V3 Urban Weave,L,Quality,zip is defective,SYNTHETIC DEMO DATA,QUALITY
+SYN-100487,SKU101,Aarna Straight Kurti,V1 North Looms,M,Other,shirt loose hai pls help,SYNTHETIC DEMO DATA,FIT
+SYN-100488,SKU102,Mira Cotton Kurti,V1 North Looms,XS,Quality,colour faded on first wash,SYNTHETIC DEMO DATA,QUALITY
+SYN-100489,SKU104,Riya Printed Shirt,V2 Jaipur Textiles,XL,Other,delivery came late pls help,SYNTHETIC DEMO DATA,DELIVERY
+SYN-100490,SKU109,Zoya Flared Dress,V5 Coastline Apparel,XXL,Other,wrong product received totally unexpected,SYNTHETIC DEMO DATA,PRODUCT
+SYN-100491,SKU104,Riya Printed Shirt,V2 Jaipur Textiles,XS,Other,okay but no,SYNTHETIC DEMO DATA,OTHER
+SYN-100492,SKU104,Riya Printed Shirt,V2 Jaipur Textiles,XL,Quality,stitching came undone after one wear,SYNTHETIC DEMO DATA,QUALITY
+SYN-100493,SKU107,Meher Festive Kurta,V4 Saffron Studio,XXL,Quality,cloth quality bilkul achi nahi pls help,SYNTHETIC DEMO DATA,QUALITY
+SYN-100494,SKU116,Veda Oversized Shirt,V8 Form & Fit,XXL,Fit,kurti bahut tight hai pls help,SYNTHETIC DEMO DATA,FIT
+SYN-100495,SKU116,Veda Oversized Shirt,V8 Form & Fit,M,Fit,shoulder romba tight,SYNTHETIC DEMO DATA,FIT
+SYN-100496,SKU108,Ira Everyday Top,V4 Saffron Studio,XS,Other,image wala shade nahi hai pls help,SYNTHETIC DEMO DATA,PRODUCT
+SYN-100497,SKU110,Sana Ribbed Top,V5 Coastline Apparel,XS,Quality,received with a small tear,SYNTHETIC DEMO DATA,QUALITY
+SYN-100498,SKU101,Aarna Straight Kurti,V1 North Looms,XXL,Other,wrong product received,SYNTHETIC DEMO DATA,PRODUCT
+SYN-100499,SKU103,Nila Anarkali Kurti,V2 Jaipur Textiles,L,Fit,bahut bada ho gaya,SYNTHETIC DEMO DATA,FIT
+SYN-100500,SKU116,Veda Oversized Shirt,V8 Form & Fit,S,Delivery,courier delayed too much totally unexpected,SYNTHETIC DEMO DATA,DELIVERY
+SYN-100501,SKU104,Riya Printed Shirt,V2 Jaipur Textiles,L,Other,zip is defective,SYNTHETIC DEMO DATA,QUALITY
+SYN-100502,SKU112,Diya Summer Co-ord,V6 Indigo Works,L,Delivery,courier delayed too much,SYNTHETIC DEMO DATA,DELIVERY
+SYN-100503,SKU102,Mira Cotton Kurti,V1 North Looms,XXL,Fit,bahut bada ho gaya totally unexpected,SYNTHETIC DEMO DATA,FIT
+SYN-100504,SKU108,Ira Everyday Top,V4 Saffron Studio,L,Other,looks odd,SYNTHETIC DEMO DATA,OTHER
+SYN-100505,SKU108,Ira Everyday Top,V4 Saffron Studio,XS,Product,style did not suit me for my usual size,SYNTHETIC DEMO DATA,PRODUCT
+SYN-100506,SKU106,Kavya Palazzo Set,V3 Urban Weave,L,Other,pattern is misleading,SYNTHETIC DEMO DATA,PRODUCT
+SYN-100507,SKU111,Avni Denim Jacket,V6 Indigo Works,S,Other,colour faded on first wash yaar,SYNTHETIC DEMO DATA,QUALITY
+SYN-100508,SKU103,Nila Anarkali Kurti,V2 Jaipur Textiles,L,Other,armhole feels tight,SYNTHETIC DEMO DATA,FIT
+SYN-100509,SKU101,Aarna Straight Kurti,V1 North Looms,XL,Other,,SYNTHETIC DEMO DATA,FIT
+SYN-100510,SKU110,Sana Ribbed Top,V5 Coastline Apparel,XS,Other,return please,SYNTHETIC DEMO DATA,OTHER
+SYN-100511,SKU108,Ira Everyday Top,V4 Saffron Studio,XXL,Other,looks odd,SYNTHETIC DEMO DATA,OTHER
+SYN-100512,SKU112,Diya Summer Co-ord,V6 Indigo Works,XXL,Other,size feels weird totally unexpected,SYNTHETIC DEMO DATA,OTHER
+SYN-100513,SKU110,Sana Ribbed Top,V5 Coastline Apparel,S,Other,product looks different in real,SYNTHETIC DEMO DATA,PRODUCT
+SYN-100514,SKU114,Pihu Casual Tee,V7 Thread Theory,S,Fit,size chart didn't match,SYNTHETIC DEMO DATA,FIT
+SYN-100515,SKU111,Avni Denim Jacket,V6 Indigo Works,L,Fit,actual measurement chart se alag hai totally unexpected,SYNTHETIC DEMO DATA,FIT
+SYN-100516,SKU115,Anaya Office Trousers,V8 Form & Fit,XL,Quality,,SYNTHETIC DEMO DATA,QUALITY
+SYN-100517,SKU114,Pihu Casual Tee,V7 Thread Theory,XXL,Other,hmm not sure,SYNTHETIC DEMO DATA,OTHER
+SYN-100518,SKU106,Kavya Palazzo Set,V3 Urban Weave,XL,Other,didn't like it totally unexpected,SYNTHETIC DEMO DATA,OTHER
+SYN-100519,SKU113,Leela Rayon Kurti,V7 Thread Theory,S,Quality,thread coming out :( ,SYNTHETIC DEMO DATA,QUALITY
+SYN-100520,SKU105,Tara Linen Shirt,V3 Urban Weave,XXL,Other,colour faded on first wash,SYNTHETIC DEMO DATA,QUALITY
+SYN-100521,SKU107,Meher Festive Kurta,V4 Saffron Studio,XXL,Other,fit is weird around the chest,SYNTHETIC DEMO DATA,FIT
+SYN-100522,SKU106,Kavya Palazzo Set,V3 Urban Weave,XL,Product,product looks different in real,SYNTHETIC DEMO DATA,PRODUCT
+SYN-100523,SKU114,Pihu Casual Tee,V7 Thread Theory,XS,Other,okay but no,SYNTHETIC DEMO DATA,OTHER
+SYN-100524,SKU101,Aarna Straight Kurti,V1 North Looms,S,Fit,size is smaller than expected,SYNTHETIC DEMO DATA,FIT
+SYN-100525,SKU110,Sana Ribbed Top,V5 Coastline Apparel,XL,Other,didn't like it,SYNTHETIC DEMO DATA,OTHER
+SYN-100526,SKU102,Mira Cotton Kurti,V1 North Looms,XXL,Quality,zip is defective totally unexpected,SYNTHETIC DEMO DATA,QUALITY
+SYN-100527,SKU113,Leela Rayon Kurti,V7 Thread Theory,L,Other,fit is weird around the chest,SYNTHETIC DEMO DATA,FIT
+SYN-100528,SKU111,Avni Denim Jacket,V6 Indigo Works,L,Other,not happy :( ,SYNTHETIC DEMO DATA,OTHER
+SYN-100529,SKU108,Ira Everyday Top,V4 Saffron Studio,XXL,Other,looks odd,SYNTHETIC DEMO DATA,OTHER
+SYN-100530,SKU107,Meher Festive Kurta,V4 Saffron Studio,XXL,Quality,fabric feels very cheap,SYNTHETIC DEMO DATA,QUALITY
+SYN-100531,SKU104,Riya Printed Shirt,V2 Jaipur Textiles,M,Quality,cloth quality bilkul achi nahi :( ,SYNTHETIC DEMO DATA,QUALITY
+SYN-100532,SKU101,Aarna Straight Kurti,V1 North Looms,XXL,Fit,shirt loose hai :( ,SYNTHETIC DEMO DATA,FIT
+SYN-100533,SKU110,Sana Ribbed Top,V5 Coastline Apparel,S,Other,product looks different in real totally unexpected,SYNTHETIC DEMO DATA,PRODUCT
+SYN-100534,SKU103,Nila Anarkali Kurti,V2 Jaipur Textiles,S,Other,fabric feels very cheap,SYNTHETIC DEMO DATA,QUALITY
+SYN-100535,SKU107,Meher Festive Kurta,V4 Saffron Studio,XL,Other,looks odd,SYNTHETIC DEMO DATA,OTHER
+SYN-100536,SKU116,Veda Oversized Shirt,V8 Form & Fit,XL,Other,not happy :( ,SYNTHETIC DEMO DATA,OTHER
+SYN-100537,SKU108,Ira Everyday Top,V4 Saffron Studio,M,Other,looks odd,SYNTHETIC DEMO DATA,OTHER
+SYN-100538,SKU110,Sana Ribbed Top,V5 Coastline Apparel,M,Fit,shoulder fitting off hai,SYNTHETIC DEMO DATA,FIT
+SYN-100539,SKU107,Meher Festive Kurta,V4 Saffron Studio,XL,Quality,stitching came undone after one wear,SYNTHETIC DEMO DATA,QUALITY
+SYN-100540,SKU101,Aarna Straight Kurti,V1 North Looms,L,Quality,thread coming out,SYNTHETIC DEMO DATA,QUALITY
+SYN-100541,SKU104,Riya Printed Shirt,V2 Jaipur Textiles,S,Fit,actual measurement chart se alag hai,SYNTHETIC DEMO DATA,FIT
+SYN-100542,SKU101,Aarna Straight Kurti,V1 North Looms,XL,Fit,bahut bada ho gaya pls help,SYNTHETIC DEMO DATA,FIT
+SYN-100543,SKU103,Nila Anarkali Kurti,V2 Jaipur Textiles,L,Fit,sleeves are too short,SYNTHETIC DEMO DATA,FIT
+SYN-100544,SKU114,Pihu Casual Tee,V7 Thread Theory,XL,Quality,cloth quality bilkul achi nahi,SYNTHETIC DEMO DATA,QUALITY
+SYN-100545,SKU103,Nila Anarkali Kurti,V2 Jaipur Textiles,XS,Quality,material quality not good,SYNTHETIC DEMO DATA,QUALITY
+SYN-100546,SKU110,Sana Ribbed Top,V5 Coastline Apparel,L,Other,okay but no,SYNTHETIC DEMO DATA,OTHER
+SYN-100547,SKU113,Leela Rayon Kurti,V7 Thread Theory,L,Other,not happy,SYNTHETIC DEMO DATA,OTHER
+SYN-100548,SKU110,Sana Ribbed Top,V5 Coastline Apparel,XS,Other,didn't like it totally unexpected,SYNTHETIC DEMO DATA,OTHER
+SYN-100549,SKU105,Tara Linen Shirt,V3 Urban Weave,XS,Fit,kurti bahut tight hai,SYNTHETIC DEMO DATA,FIT
+SYN-100550,SKU110,Sana Ribbed Top,V5 Coastline Apparel,S,Other,shoulder fitting off hai totally unexpected,SYNTHETIC DEMO DATA,FIT
+SYN-100551,SKU108,Ira Everyday Top,V4 Saffron Studio,XS,Delivery,package was delivered to wrong place yaar,SYNTHETIC DEMO DATA,DELIVERY
+SYN-100552,SKU115,Anaya Office Trousers,V8 Form & Fit,XL,Other,stitching came undone after one wear pls help,SYNTHETIC DEMO DATA,QUALITY
+SYN-100553,SKU116,Veda Oversized Shirt,V8 Form & Fit,XS,Other,looks odd totally unexpected,SYNTHETIC DEMO DATA,OTHER
+SYN-100554,SKU107,Meher Festive Kurta,V4 Saffron Studio,XL,Quality,zip is defective totally unexpected,SYNTHETIC DEMO DATA,QUALITY
+SYN-100555,SKU112,Diya Summer Co-ord,V6 Indigo Works,XXL,Other,change my mind :( ,SYNTHETIC DEMO DATA,OTHER
+SYN-100556,SKU114,Pihu Casual Tee,V7 Thread Theory,L,Quality,received with a small tear totally unexpected,SYNTHETIC DEMO DATA,QUALITY
+SYN-100557,SKU112,Diya Summer Co-ord,V6 Indigo Works,M,Other,hmm not sure,SYNTHETIC DEMO DATA,OTHER
+SYN-100558,SKU105,Tara Linen Shirt,V3 Urban Weave,XS,Other,return please totally unexpected,SYNTHETIC DEMO DATA,OTHER
+SYN-100559,SKU101,Aarna Straight Kurti,V1 North Looms,M,Other,style did not suit me,SYNTHETIC DEMO DATA,PRODUCT
+SYN-100560,SKU116,Veda Oversized Shirt,V8 Form & Fit,XXL,Product,wrong product received,SYNTHETIC DEMO DATA,PRODUCT
+SYN-100561,SKU110,Sana Ribbed Top,V5 Coastline Apparel,XL,Fit,shoulder romba tight,SYNTHETIC DEMO DATA,FIT
+SYN-100562,SKU106,Kavya Palazzo Set,V3 Urban Weave,XXL,Other,didn't like it,SYNTHETIC DEMO DATA,OTHER
+SYN-100563,SKU105,Tara Linen Shirt,V3 Urban Weave,S,Other,hmm not sure,SYNTHETIC DEMO DATA,OTHER
+SYN-100564,SKU103,Nila Anarkali Kurti,V2 Jaipur Textiles,L,Fit,sleeves are too short yaar,SYNTHETIC DEMO DATA,FIT
+SYN-100565,SKU116,Veda Oversized Shirt,V8 Form & Fit,XL,Other,not happy totally unexpected,SYNTHETIC DEMO DATA,OTHER
+SYN-100566,SKU109,Zoya Flared Dress,V5 Coastline Apparel,L,Other,okay but no,SYNTHETIC DEMO DATA,OTHER
+SYN-100567,SKU112,Diya Summer Co-ord,V6 Indigo Works,XL,Delivery,parcel arrived after the event,SYNTHETIC DEMO DATA,DELIVERY
+SYN-100568,SKU113,Leela Rayon Kurti,V7 Thread Theory,XL,Quality,received with a small tear,SYNTHETIC DEMO DATA,QUALITY
+SYN-100569,SKU105,Tara Linen Shirt,V3 Urban Weave,S,Other,print is not as shown totally unexpected,SYNTHETIC DEMO DATA,PRODUCT
+SYN-100570,SKU112,Diya Summer Co-ord,V6 Indigo Works,XS,Other,parcel arrived after the event,SYNTHETIC DEMO DATA,DELIVERY
+SYN-100571,SKU116,Veda Oversized Shirt,V8 Form & Fit,S,Other,pattern is misleading yaar,SYNTHETIC DEMO DATA,PRODUCT
+SYN-100572,SKU102,Mira Cotton Kurti,V1 North Looms,XS,Fit,length is too short for my usual size,SYNTHETIC DEMO DATA,FIT
+SYN-100573,SKU106,Kavya Palazzo Set,V3 Urban Weave,XXL,Quality,fabric feels very cheap,SYNTHETIC DEMO DATA,QUALITY
+SYN-100574,SKU101,Aarna Straight Kurti,V1 North Looms,L,Product,image wala shade nahi hai,SYNTHETIC DEMO DATA,PRODUCT
+SYN-100575,SKU116,Veda Oversized Shirt,V8 Form & Fit,S,Fit,actual measurement chart se alag hai,SYNTHETIC DEMO DATA,FIT
+SYN-100576,SKU109,Zoya Flared Dress,V5 Coastline Apparel,L,Other,bahut bada ho gaya,SYNTHETIC DEMO DATA,FIT
+SYN-100577,SKU113,Leela Rayon Kurti,V7 Thread Theory,XL,Fit,kurti bahut tight hai for my usual size,SYNTHETIC DEMO DATA,FIT
+SYN-100578,SKU104,Riya Printed Shirt,V2 Jaipur Textiles,XS,Fit,size is smaller than expected,SYNTHETIC DEMO DATA,FIT
+SYN-100579,SKU116,Veda Oversized Shirt,V8 Form & Fit,XL,Product,colour different from image,SYNTHETIC DEMO DATA,PRODUCT
+SYN-100580,SKU114,Pihu Casual Tee,V7 Thread Theory,L,Quality,material quality not good,SYNTHETIC DEMO DATA,QUALITY
+SYN-100581,SKU113,Leela Rayon Kurti,V7 Thread Theory,XS,Quality,stitching came undone after one wear,SYNTHETIC DEMO DATA,QUALITY
+SYN-100582,SKU110,Sana Ribbed Top,V5 Coastline Apparel,XL,Delivery,tracking never updated pls help,SYNTHETIC DEMO DATA,DELIVERY
+SYN-100583,SKU104,Riya Printed Shirt,V2 Jaipur Textiles,M,Other,style did not suit me,SYNTHETIC DEMO DATA,PRODUCT
+SYN-100584,SKU104,Riya Printed Shirt,V2 Jaipur Textiles,M,Other,M size bhi chota laga for my usual size,SYNTHETIC DEMO DATA,FIT
+SYN-100585,SKU113,Leela Rayon Kurti,V7 Thread Theory,XL,Other,change my mind,SYNTHETIC DEMO DATA,OTHER
+SYN-100586,SKU116,Veda Oversized Shirt,V8 Form & Fit,S,Other,fit is weird around the chest,SYNTHETIC DEMO DATA,FIT
+SYN-100587,SKU104,Riya Printed Shirt,V2 Jaipur Textiles,XL,Other,hmm not sure,SYNTHETIC DEMO DATA,OTHER
+SYN-100588,SKU113,Leela Rayon Kurti,V7 Thread Theory,S,Other,,SYNTHETIC DEMO DATA,OTHER
+SYN-100589,SKU116,Veda Oversized Shirt,V8 Form & Fit,XS,Other,change my mind :( ,SYNTHETIC DEMO DATA,OTHER
+SYN-100590,SKU113,Leela Rayon Kurti,V7 Thread Theory,XL,Other,change my mind,SYNTHETIC DEMO DATA,OTHER
+SYN-100591,SKU102,Mira Cotton Kurti,V1 North Looms,XXL,Other,didn't like it,SYNTHETIC DEMO DATA,OTHER
+SYN-100592,SKU110,Sana Ribbed Top,V5 Coastline Apparel,XXL,Other,sleeves are too short,SYNTHETIC DEMO DATA,FIT
+SYN-100593,SKU101,Aarna Straight Kurti,V1 North Looms,L,Other,parcel arrived after the event,SYNTHETIC DEMO DATA,DELIVERY
+SYN-100594,SKU113,Leela Rayon Kurti,V7 Thread Theory,M,Other,delivery came late,SYNTHETIC DEMO DATA,DELIVERY
+SYN-100595,SKU112,Diya Summer Co-ord,V6 Indigo Works,XS,Other,colour faded on first wash yaar,SYNTHETIC DEMO DATA,QUALITY
+SYN-100596,SKU109,Zoya Flared Dress,V5 Coastline Apparel,XS,Other,not fitting properly,SYNTHETIC DEMO DATA,FIT
+SYN-100597,SKU109,Zoya Flared Dress,V5 Coastline Apparel,S,Other,okay but no,SYNTHETIC DEMO DATA,OTHER
+SYN-100598,SKU111,Avni Denim Jacket,V6 Indigo Works,L,Other,hmm not sure,SYNTHETIC DEMO DATA,OTHER
+SYN-100599,SKU104,Riya Printed Shirt,V2 Jaipur Textiles,S,Quality,cloth quality bilkul achi nahi,SYNTHETIC DEMO DATA,QUALITY
+SYN-100600,SKU111,Avni Denim Jacket,V6 Indigo Works,S,Quality,,SYNTHETIC DEMO DATA,QUALITY
+SYN-100601,SKU110,Sana Ribbed Top,V5 Coastline Apparel,XL,Other,bahut bada ho gaya yaar,SYNTHETIC DEMO DATA,FIT
+SYN-100602,SKU109,Zoya Flared Dress,V5 Coastline Apparel,M,Fit,size chart didn't match,SYNTHETIC DEMO DATA,FIT
+SYN-100603,SKU107,Meher Festive Kurta,V4 Saffron Studio,XS,Fit,sleeves are too short,SYNTHETIC DEMO DATA,FIT
+SYN-100604,SKU103,Nila Anarkali Kurti,V2 Jaipur Textiles,XS,Quality,zip is defective,SYNTHETIC DEMO DATA,QUALITY
+SYN-100605,SKU116,Veda Oversized Shirt,V8 Form & Fit,M,Fit,bahut bada ho gaya,SYNTHETIC DEMO DATA,FIT
+SYN-100606,SKU116,Veda Oversized Shirt,V8 Form & Fit,XL,Other,M size bhi chota laga,SYNTHETIC DEMO DATA,FIT
+SYN-100607,SKU114,Pihu Casual Tee,V7 Thread Theory,S,Product,colour different from image,SYNTHETIC DEMO DATA,PRODUCT
+SYN-100608,SKU115,Anaya Office Trousers,V8 Form & Fit,XL,Other,,SYNTHETIC DEMO DATA,DELIVERY
+SYN-100609,SKU104,Riya Printed Shirt,V2 Jaipur Textiles,XL,Quality,colour faded on first wash :( ,SYNTHETIC DEMO DATA,QUALITY
+SYN-100610,SKU111,Avni Denim Jacket,V6 Indigo Works,M,Quality,zip is defective,SYNTHETIC DEMO DATA,QUALITY
+SYN-100611,SKU113,Leela Rayon Kurti,V7 Thread Theory,XS,Quality,fabric feels very cheap,SYNTHETIC DEMO DATA,QUALITY
+SYN-100612,SKU109,Zoya Flared Dress,V5 Coastline Apparel,XXL,Other,change my mind,SYNTHETIC DEMO DATA,OTHER
+SYN-100613,SKU105,Tara Linen Shirt,V3 Urban Weave,XXL,Product,colour different from image,SYNTHETIC DEMO DATA,PRODUCT
+SYN-100614,SKU111,Avni Denim Jacket,V6 Indigo Works,S,Other,okay but no for my usual size,SYNTHETIC DEMO DATA,OTHER
+SYN-100615,SKU102,Mira Cotton Kurti,V1 North Looms,M,Fit,M size bhi chota laga,SYNTHETIC DEMO DATA,FIT
+SYN-100616,SKU109,Zoya Flared Dress,V5 Coastline Apparel,XL,Quality,colour faded on first wash,SYNTHETIC DEMO DATA,QUALITY
+SYN-100617,SKU107,Meher Festive Kurta,V4 Saffron Studio,XL,Other,courier delayed too much,SYNTHETIC DEMO DATA,DELIVERY
+SYN-100618,SKU116,Veda Oversized Shirt,V8 Form & Fit,XXL,Other,late delivery so returning,SYNTHETIC DEMO DATA,DELIVERY
+SYN-100619,SKU105,Tara Linen Shirt,V3 Urban Weave,XS,Other,looks odd,SYNTHETIC DEMO DATA,OTHER
+SYN-100620,SKU103,Nila Anarkali Kurti,V2 Jaipur Textiles,XXL,Other,sleeves are too short totally unexpected,SYNTHETIC DEMO DATA,FIT
+SYN-100621,SKU113,Leela Rayon Kurti,V7 Thread Theory,XL,Quality,zip is defective,SYNTHETIC DEMO DATA,QUALITY
+SYN-100622,SKU115,Anaya Office Trousers,V8 Form & Fit,M,Other,length is too short,SYNTHETIC DEMO DATA,FIT
+SYN-100623,SKU103,Nila Anarkali Kurti,V2 Jaipur Textiles,XS,Fit,waist tight but rest okay pls help,SYNTHETIC DEMO DATA,FIT
+SYN-100624,SKU101,Aarna Straight Kurti,V1 North Looms,L,Quality,stitching came undone after one wear for my usual size,SYNTHETIC DEMO DATA,QUALITY
+SYN-100625,SKU110,Sana Ribbed Top,V5 Coastline Apparel,S,Fit,fit is weird around the chest,SYNTHETIC DEMO DATA,FIT
+SYN-100626,SKU101,Aarna Straight Kurti,V1 North Looms,XL,Fit,shoulder fitting off hai,SYNTHETIC DEMO DATA,FIT
+SYN-100627,SKU109,Zoya Flared Dress,V5 Coastline Apparel,XL,Other,wrong product received,SYNTHETIC DEMO DATA,PRODUCT
+SYN-100628,SKU115,Anaya Office Trousers,V8 Form & Fit,M,Other,cloth quality bilkul achi nahi,SYNTHETIC DEMO DATA,QUALITY
+SYN-100629,SKU116,Veda Oversized Shirt,V8 Form & Fit,M,Other,stitching came undone after one wear,SYNTHETIC DEMO DATA,QUALITY
+SYN-100630,SKU101,Aarna Straight Kurti,V1 North Looms,L,Fit,shirt loose hai,SYNTHETIC DEMO DATA,FIT
+SYN-100631,SKU116,Veda Oversized Shirt,V8 Form & Fit,XL,Fit,actual measurement chart se alag hai,SYNTHETIC DEMO DATA,FIT
+SYN-100632,SKU112,Diya Summer Co-ord,V6 Indigo Works,L,Fit,actual measurement chart se alag hai,SYNTHETIC DEMO DATA,FIT
+SYN-100633,SKU113,Leela Rayon Kurti,V7 Thread Theory,XL,Fit,shoulder romba tight,SYNTHETIC DEMO DATA,FIT
+SYN-100634,SKU109,Zoya Flared Dress,V5 Coastline Apparel,M,Other,colour faded on first wash,SYNTHETIC DEMO DATA,QUALITY
+SYN-100635,SKU104,Riya Printed Shirt,V2 Jaipur Textiles,S,Other,late delivery so returning for my usual size,SYNTHETIC DEMO DATA,DELIVERY
+SYN-100636,SKU102,Mira Cotton Kurti,V1 North Looms,L,Other,not happy pls help,SYNTHETIC DEMO DATA,OTHER
+SYN-100637,SKU101,Aarna Straight Kurti,V1 North Looms,L,Other,shirt loose hai yaar,SYNTHETIC DEMO DATA,FIT
+SYN-100638,SKU112,Diya Summer Co-ord,V6 Indigo Works,XS,Product,colour different from image yaar,SYNTHETIC DEMO DATA,PRODUCT
+SYN-100639,SKU116,Veda Oversized Shirt,V8 Form & Fit,XXL,Other,M size bhi chota laga,SYNTHETIC DEMO DATA,FIT
+SYN-100640,SKU108,Ira Everyday Top,V4 Saffron Studio,XS,Quality,zip is defective pls help,SYNTHETIC DEMO DATA,QUALITY
+SYN-100641,SKU107,Meher Festive Kurta,V4 Saffron Studio,XXL,Product,image wala shade nahi hai,SYNTHETIC DEMO DATA,PRODUCT
+SYN-100642,SKU104,Riya Printed Shirt,V2 Jaipur Textiles,XS,Other,colour faded on first wash pls help,SYNTHETIC DEMO DATA,QUALITY
+SYN-100643,SKU108,Ira Everyday Top,V4 Saffron Studio,S,Other,received after expected date :( ,SYNTHETIC DEMO DATA,DELIVERY
+SYN-100644,SKU101,Aarna Straight Kurti,V1 North Looms,S,Delivery,late delivery so returning,SYNTHETIC DEMO DATA,DELIVERY
+SYN-100645,SKU106,Kavya Palazzo Set,V3 Urban Weave,XS,Product,product looks different in real,SYNTHETIC DEMO DATA,PRODUCT
+SYN-100646,SKU112,Diya Summer Co-ord,V6 Indigo Works,XXL,Delivery,parcel arrived after the event yaar,SYNTHETIC DEMO DATA,DELIVERY
+SYN-100647,SKU112,Diya Summer Co-ord,V6 Indigo Works,XXL,Other,,SYNTHETIC DEMO DATA,OTHER
+SYN-100648,SKU105,Tara Linen Shirt,V3 Urban Weave,XXL,Other,material quality not good,SYNTHETIC DEMO DATA,QUALITY
+SYN-100649,SKU116,Veda Oversized Shirt,V8 Form & Fit,XL,Fit,length is too short,SYNTHETIC DEMO DATA,FIT
